@@ -1,25 +1,28 @@
+/* General Settings */
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Space+Mono&display=swap');
+
 
 * {
     margin: 0;
     padding: 0;
     list-style-type: none;
     box-sizing: border-box;
+    --color1: #4FD19C;
+    --color2: #852A18;
+    --color3: #D1654F;
+
 }
 
 body {
-    background-color: #4FD19C;
+    background-color: var(--color1);
 }
 
-
-
+/* Navigation and logo */
 nav {
     display: flex;
     justify-content: space-between;
-    height: 50px;
-
-
-
+    height: 100px;
 }
 
 nav img {
@@ -31,7 +34,6 @@ nav ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 50px;
     margin-right: 50px;
     width: 66%;
 
@@ -48,15 +50,47 @@ nav a {
     text-decoration: none;
     font-family: Roboto Mono, sans-serif;
     text-transform: uppercase;
-    color: #852A18;
+    color: var(--color2);
     font-size: 180%;
     margin: 0 auto;
 }
 
 nav a:hover {
-    border-bottom: 1px solid #D1654F;
+    border-bottom: 1px solid var(--color3);
 }
 
+.active {
+    border-bottom: 1px solid var(--color3);
+}
+
+.hero-container {
+
+    margin-top: 50px;
+    position: relative;
+    height: 500px;
+}
+
+.hero-image {
+    width: 50%;
+    height: 500px;
+    background-image: url(../images/profilepic.png);
+    background-repeat: no-repeat;
+    margin:
+    position: absolute;
+    z-index: -1;
+
+
+}
+
+.hero-container h1 {
+    text-transform: uppercase;
+    color: #7AFFCA;
+    font-size: 1000%;
+    font-family: Space Mono, sans-serif;
+    text-align: center;
+    line-height: 120px;
+
+}
 
 @media screen and (max-width:800px) {
 
