@@ -8,15 +8,9 @@
 }
 
 body {
-    background-color: black;
+    background-color: #4FD19C;
 }
 
-h1,
-h2 {
-    font-family: Roboto Mono, sans-serif;
-    text-transform: uppercase;
-    color: #fafafa;
-}
 
 
 nav {
@@ -37,7 +31,7 @@ nav ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top:50px;
+    margin-top: 50px;
     margin-right: 50px;
     width: 66%;
 
@@ -54,13 +48,13 @@ nav a {
     text-decoration: none;
     font-family: Roboto Mono, sans-serif;
     text-transform: uppercase;
-    color: #fafafa;
+    color: #852A18;
     font-size: 180%;
     margin: 0 auto;
 }
 
 nav a:hover {
-    border-bottom: 1px solid #fafafa;
+    border-bottom: 1px solid #D1654F;
 }
 
 
