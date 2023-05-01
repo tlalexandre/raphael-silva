@@ -16,7 +16,7 @@
 
 body {
     background-color: var(--color1);
-    /* overflow: hidden; */
+
 }
 
 /* Navigation and logo */
@@ -67,14 +67,12 @@ nav a:hover {
     display: flex;
     justify-content: center;
     margin: 80px;
-
-
-    margin-bottom: 190px;
+    margin-bottom: 155px;
 }
 
 .profile-pic {
     background: url(../images/profilepic.png) top center;
-    height: 500px;
+
     width: 33%;
     overflow: hidden;
     border: 20px solid var(--color3);
@@ -205,6 +203,10 @@ footer a {
 
 @media screen and (max-width:800px) {
 
+    header {
+        margin-bottom: 240px;
+    }
+
     nav {
         display: block;
         margin: auto;
@@ -214,15 +216,17 @@ footer a {
         flex-direction: column;
         width: 100%;
         margin-right: 0;
+
     }
 
     .hero-container {
         display: inline-block;
-        margin-top: 240px;
+
     }
 
     .profile-pic {
         width: 100%;
+        height: 500px;
     }
 
     .description {
