@@ -16,6 +16,7 @@
 
 body {
     background-color: var(--color1);
+    /* overflow: hidden; */
 }
 
 /* Navigation and logo */
@@ -70,6 +71,7 @@ nav a:hover {
     margin: 50px;
     position: relative;
     height: 500px;
+    margin-bottom: 190px;
 }
 
 .profile-pic {
@@ -131,8 +133,7 @@ footer {
     height: 100px;
     width: 100%;
     margin-top: 50px;
-    position: absolute;
-    bottom: 150px;
+
 
 }
 
@@ -140,7 +141,7 @@ footer ul {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-top: 150px;
+
     height: 100px;
     background-color: var(--color3);
 }
@@ -149,6 +150,51 @@ footer a {
     font-size: 50px;
     color: var(--color4);
 }
+
+
+
+/* Gallery */
+#gallery-container {
+    /* height: 750px; */
+    padding: 20px;
+
+}
+
+#gallery-container img {
+    height: 200px;
+}
+
+.art {
+    position: relative;
+    width: 200px;
+    margin-right: 20px;
+    margin-top: 15px;
+    display: inline-block;
+}
+
+.presentation {
+    display: none;
+    position: absolute;
+    background-color: rgba(6, 126, 140, 0.7);
+    bottom: 5px;
+    height: 98%;
+    width: 100%;
+    padding-top: 50%;
+    padding-left: 10px;
+
+}
+
+.presentation span {
+    font-family: Lato, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    color: var(--color1);
+}
+
+.art:hover .presentation {
+    display: block;
+}
+
 
 @media screen and (max-width:800px) {
 
@@ -159,5 +205,13 @@ footer a {
 
     nav ul {
         flex-direction: column;
+    }
+
+    .hero-container {
+        m
+    }
+
+    #gallery-container {
+        margin-top: 220px;
     }
 }
