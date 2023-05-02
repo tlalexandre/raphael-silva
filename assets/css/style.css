@@ -215,7 +215,7 @@ footer a {
     color: var(--color4);
     font-family: Roboto Mono, sans-serif;
     padding: 20px;
-
+    border: 20px double var(--color4);
 }
 
 .about-container h3 {
