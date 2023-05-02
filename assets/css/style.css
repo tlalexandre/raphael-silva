@@ -51,7 +51,7 @@ nav li {
 
 nav a {
     text-decoration: none;
-    font-family: Roboto Mono, sans-serif;
+    font-family: 'Roboto Mono', sans-serif;
     text-transform: uppercase;
     color: var(--color2);
     font-size: 180%;
@@ -88,7 +88,7 @@ nav a:hover {
     width: 67%;
     border: 20px double var(--color4);
     border-radius: 0px 0px 70px;
-    font-family: Space Mono, sans-serif;
+    font-family: "Space Mono", sans-serif;
     font-size: 1.5vw;
     color: var(--color4);
     text-transform: uppercase;
@@ -110,7 +110,7 @@ nav a:hover {
     text-transform: uppercase;
     color: var(--color4);
     font-size: 7.7vw;
-    font-family: Space Mono, sans-serif;
+    font-family: "Space Mono", sans-serif;
     text-align: center;
     line-height: 120px;
     position: absolute;
@@ -121,7 +121,7 @@ nav a:hover {
     text-transform: uppercase;
     color: var(--color4);
     font-size: 7.7vw;
-    font-family: Space Mono, sans-serif;
+    font-family: "Space Mono", sans-serif;
     text-align: center;
     line-height: 120px;
     position: absolute;
@@ -188,7 +188,7 @@ footer a {
 }
 
 .presentation span {
-    font-family: Space Mono, sans-serif;
+    font-family: "Space Mono", sans-serif;
     font-size: 1rem;
     text-align: center;
     text-transform: uppercase;
@@ -213,14 +213,14 @@ footer a {
     margin-bottom: 20px;
     background: var(--color2);
     color: var(--color4);
-    font-family: Roboto Mono, sans-serif;
+    font-family: "Roboto Mono", sans-serif;
     padding: 20px;
-    border: 20px double var(--color4);
+    /* border: 20px double var(--color4); */
 }
 
 .about-container h3 {
     text-transform: uppercase;
-    font-family: Space, sans-serif;
+    font-family: "Space Mono", sans-serif;
 }
 
 .about-me {
@@ -228,6 +228,9 @@ footer a {
     margin-left: 15%;
     animation: translateRight 2s forwards;
     transform: translateX(100vw);
+    border-top: 20px double var(--color4);
+    border-left: 20px double var(--color4);
+    border-bottom: 20px double var(--color4);
 }
 
 .about-me p {
@@ -242,6 +245,9 @@ footer a {
     animation: translateLeft 2s forwards;
     animation-delay: 2s;
     transform: translateX(-100vw);
+    border-top: 20px double var(--color4);
+    border-right: 20px double var(--color4);
+    border-bottom: 20px double var(--color4);
 
 }
 
@@ -252,6 +258,9 @@ footer a {
     animation: translateRight 2s forwards;
     animation-delay: 4s;
     transform: translateX(100vw);
+    border-top: 20px double var(--color4);
+    border-left: 20px double var(--color4);
+    border-bottom: 20px double var(--color4);
 }
 
 .features a {
