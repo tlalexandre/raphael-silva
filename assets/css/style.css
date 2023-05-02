@@ -8,10 +8,12 @@
     padding: 0;
     list-style-type: none;
     box-sizing: border-box;
+    text-decoration: none;
     --color1: #4FD19C;
     --color2: #2F4858;
     --color3: #266275;
     --color4: #7AFFCA;
+    --color5: #067E8C;
 
 }
 
@@ -68,7 +70,7 @@ nav a:hover {
     display: flex;
     justify-content: center;
     margin: 80px;
-    margin-bottom: 155px;
+    margin-bottom: 145px;
 }
 
 .profile-pic {
@@ -186,7 +188,8 @@ footer a {
 }
 
 .presentation span {
-    font-family: Lato, sans-serif;
+    font-family: Space Mono, sans-serif;
+    font-size: 1rem;
     text-align: center;
     text-transform: uppercase;
     color: var(--color1);
@@ -195,6 +198,86 @@ footer a {
 .art:hover .presentation {
     display: block;
 }
+
+
+/* About  */
+
+.about-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.about-container div {
+    margin-bottom: 20px;
+    background: var(--color2);
+    color: var(--color4);
+    font-family: Roboto Mono, sans-serif;
+    padding: 20px;
+
+}
+
+.about-container h3 {
+    text-transform: uppercase;
+    font-family: Space, sans-serif;
+}
+
+.about-me {
+    border-radius: 20px 0 0 20px;
+    margin-left: 15%;
+    animation: translateRight 2s forwards;
+    transform: translateX(100vw);
+}
+
+.about-me p {
+    padding-bottom: 10px;
+    padding-right: 300px;
+}
+
+.awards {
+    text-align: right;
+    margin-right: 15%;
+    border-radius: 0 20px 20px 0;
+    animation: translateLeft 2s forwards;
+    animation-delay: 2s;
+    transform: translateX(-100vw);
+
+}
+
+.features {
+
+    border-radius: 20px 0 0 20px;
+    margin-left: 15%;
+    animation: translateRight 2s forwards;
+    animation-delay: 4s;
+    transform: translateX(100vw);
+}
+
+.features a {
+    color: var(--color4);
+}
+
+@keyframes translateRight {
+    from {
+        transform: translateX(100vw);
+    }
+
+    to {
+        transform: translateX(0vw);
+    }
+}
+
+@keyframes translateLeft {
+    from {
+        transform: translateX(-100vw);
+    }
+
+    to {
+        transform: translateX(0vw);
+    }
+}
+
 
 
 @media screen and (min-width:1700px) {
@@ -224,9 +307,9 @@ footer a {
     }
 
     .hero-container {
-        display: inline-block;
-        margin: 0;
-        width: 100%;
+        display: block;
+        width: 80%;
+        margin: auto;
 
     }
 
@@ -264,7 +347,19 @@ footer a {
         width: 38vw;
     }
 
+    .art:hover .presentation {
+        display: none;
+    }
+
     .art video {
         height: 38vw;
+    }
+
+    .about-container {
+        margin-top: 300px;
+    }
+
+    .about-me p {
+        padding-right: 10%;
     }
 }
