@@ -286,6 +286,22 @@ footer a {
 
 }
 
+form {
+    height: 70vh;
+}
+
+.contact-me {
+    background: var(--color3);
+    font-family: "Space Mono", sans-serif;
+    color: var(--color4);
+    margin: 0 50px;
+
+}
+
+
+
+
+
 @keyframes translateRight {
     from {
         transform: translateX(100vw);
