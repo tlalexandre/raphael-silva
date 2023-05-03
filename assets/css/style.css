@@ -233,6 +233,12 @@ footer a {
     padding-right: 300px;
 }
 
+.about-me i {
+    font-size: 15rem;
+    margin-top: 20px;
+
+}
+
 .awards {
     text-align: right;
     margin-right: 15%;
@@ -243,6 +249,15 @@ footer a {
     border-top: 20px double var(--color4);
     border-right: 20px double var(--color4);
     border-bottom: 20px double var(--color4);
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+
+}
+
+.awards i {
+    font-size: 15rem;
+    margin-top: 20px;
 
 }
 
@@ -256,10 +271,19 @@ footer a {
     border-top: 20px double var(--color4);
     border-left: 20px double var(--color4);
     border-bottom: 20px double var(--color4);
+    display: flex;
+    justify-content: space-around;
 }
 
 .features a {
     color: var(--color4);
+    text-decoration: underline;
+}
+
+.features i {
+    font-size: 15rem;
+    margin-top: 20px;
+
 }
 
 @keyframes translateRight {
@@ -352,7 +376,19 @@ footer a {
         margin-top: 300px;
     }
 
+    .about-me {
+        display: block;
+    }
+
     .about-me p {
         padding-right: 10%;
+    }
+
+    .awards {
+        display: block;
+    }
+
+    .features {
+        display: block;
     }
 }
