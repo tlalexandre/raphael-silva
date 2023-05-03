@@ -155,41 +155,35 @@ footer a {
 
 /* Gallery */
 #gallery-container {
-    /* height: 750px; */
-    padding: 20px;
-
-}
-
-#gallery-container img {
-    height: 23vw;
+    margin: 50px;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    gap: 20px;
 }
 
 .art {
     position: relative;
-    width: 23vw;
-    margin-right: 20px;
-    margin-top: 15px;
-    display: inline-block;
+
 }
 
+.art img,
 .art video {
-    height: 23vw;
+    width: 100%;
+
 }
 
 .presentation {
     display: none;
     position: absolute;
     background-color: rgba(6, 126, 140, 0.7);
-    bottom: 5px;
-    /* height: 98%; */
-    width: 100%;
-    padding: 10% 10px;
+    bottom: 1px;
+    padding: 5px;
 
 }
 
 .presentation span {
     font-family: "Space Mono", sans-serif;
-    font-size: 1rem;
+    font-size: 0.8rem;
     text-align: center;
     text-transform: uppercase;
     color: var(--color1);
@@ -199,7 +193,7 @@ footer a {
     display: block;
 }
 
-
+*/
 /* About  */
 
 .about-container {
@@ -231,6 +225,7 @@ footer a {
     border-top: 20px double var(--color4);
     border-left: 20px double var(--color4);
     border-bottom: 20px double var(--color4);
+    display: flex;
 }
 
 .about-me p {
@@ -346,22 +341,11 @@ footer a {
 
     #gallery-container {
         margin-top: 220px;
-    }
-
-    #gallery-container img {
-        height: 38vw;
-    }
-
-    .art {
-        width: 38vw;
+        grid-template-columns: 50% 50%;
     }
 
     .art:hover .presentation {
         display: none;
-    }
-
-    .art video {
-        height: 38vw;
     }
 
     .about-container {
