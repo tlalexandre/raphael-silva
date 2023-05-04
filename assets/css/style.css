@@ -154,6 +154,15 @@ footer a {
 
 
 /* Gallery */
+#gallery-title {
+    text-align: center;
+    font-size: 3rem;
+    font-family: "Space Mono", sans-serif;
+    color: var(--color2);
+    /* text-transform: uppercase; */
+    text-decoration: underline;
+}
+
 #gallery-container {
     margin: 50px;
     display: grid;
@@ -286,20 +295,60 @@ footer a {
 
 }
 
-form {
-    height: 70vh;
-}
+/* Contact Form */
 
 .contact-me {
-    background: var(--color3);
     font-family: "Space Mono", sans-serif;
     color: var(--color4);
     margin: 0 50px;
+    background-color: rgba(47, 72, 88, 1);
+    border-radius: 20px;
 
 }
 
+.contact-me h3 {
+    font-size: 3rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+form {
+    padding: 50px;
+    font-size: 2rem;
+    line-height: 40px;
 
 
+}
+
+.textinput {
+    width: 100%;
+    height: 40px;
+    background: transparent;
+    border: 10px double var(--color4);
+    border-radius: 0px 20px 20px 0px;
+
+}
+
+#message {
+    resize: none;
+    width: 100%;
+    background: transparent;
+    border: 10px double var(--color4);
+    border-radius: 0px 20px 20px 0px;
+}
+
+#submit {
+    width: 50%;
+    font-size: 1.5rem;
+    color: var(--color3);
+    font-family: "Space Mono", sans-serif;
+    border: 10px double var(--color3);
+    border-radius: 0px 20px 20px 0px;
+    background-color: var(--color4);
+    padding: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
 
 
 @keyframes translateRight {
@@ -380,7 +429,7 @@ form {
     }
 
     #gallery-container {
-        margin-top: 220px;
+
         grid-template-columns: 50% 50%;
     }
 
@@ -406,5 +455,22 @@ form {
 
     .features {
         display: block;
+    }
+
+    .contact-me {
+        margin: 0 10px;
+    }
+
+    .contact-me h3 {
+        font-size: 2rem;
+    }
+
+    form {
+        padding: 10px;
+        text-align: center;
+    }
+
+    #submit {
+        width: 100%;
     }
 }
