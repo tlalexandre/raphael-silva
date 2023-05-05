@@ -12,6 +12,8 @@
     --color1: #1C646D;
     --color2: #38184C;
     --color3: #CEF09D;
+    --color4: #e08f33;
+    --color5: #ce7eff;
 }
 
 body {
@@ -47,13 +49,24 @@ nav li {
     text-align: center;
 }
 
-nav a {
+nav ul a {
     text-decoration: none;
     font-family: 'Roboto Mono', sans-serif;
     text-transform: uppercase;
     color: var(--color3);
+    border: 1px solid var(--color4);
+    border-radius: 5px;
     font-size: 180%;
     margin: 0 auto;
+    box-shadow:
+        1px 1px var(--color4),
+        2px 2px var(--color4),
+        3px 3px var(--color4),
+        4px 4px var(--color4),
+        5px 5px var(--color4),
+        6px 6px var(--color4),
+        7px 7px var(--color4),
+        8px 8px var(--color4);
 }
 
 nav a:hover {
@@ -86,6 +99,15 @@ nav a:hover {
     color: var(--color3);
     text-transform: uppercase;
     text-align: center;
+    box-shadow:
+        1px 1px var(--color4),
+        2px 2px var(--color4),
+        3px 3px var(--color4),
+        4px 4px var(--color4),
+        5px 5px var(--color4),
+        6px 6px var(--color4),
+        7px 7px var(--color4),
+        8px 8px var(--color4);
 }
 
 .description p {
@@ -101,6 +123,7 @@ nav a:hover {
     font-family: "Space Mono", sans-serif;
     text-align: left;
     margin-left: 20px;
+    text-shadow: 1px 1px 1px var(--color4), 2px 2px var(--color4), 3px 3px var(--color4), 4px 4px var(--color4), 5px 5px var(--color4), 6px 6px var(--color4), 7px 7px var(--color4), 8px 8px var(--color4);
 }
 
 .tools {
@@ -121,6 +144,7 @@ nav a:hover {
     font-family: "Space Mono", sans-serif;
     text-align: right;
     margin-right: 20px;
+    text-shadow: 1px 1px 1px var(--color4), 2px 2px var(--color4), 3px 3px var(--color4), 4px 4px var(--color4), 5px 5px var(--color4), 6px 6px var(--color4), 7px 7px var(--color4), 8px 8px var(--color4);
 }
 
 .profile-pic {
@@ -130,6 +154,15 @@ nav a:hover {
     border: 20px solid var(--color2);
     border-radius: 70px 0px 0px;
     background-size: cover;
+    box-shadow:
+        1px 1px 1px var(--color5),
+        2px 2px var(--color5),
+        3px 3px var(--color5),
+        4px 4px var(--color5),
+        5px 5px var(--color5),
+        6px 6px var(--color5),
+        7px 7px var(--color5),
+        8px 8px var(--color5);
 }
 
 /* Footer section */
@@ -149,6 +182,18 @@ footer ul {
 footer a {
     font-size: 50px;
     color: var(--color3);
+}
+
+i {
+    text-shadow:
+        1px 1px var(--color4),
+        2px 2px var(--color4),
+        3px 3px var(--color4),
+        4px 4px var(--color4),
+        5px 5px var(--color4),
+        6px 6px var(--color4),
+        7px 7px var(--color4),
+        8px 8px var(--color4);
 }
 
 /* Gallery */
@@ -224,6 +269,15 @@ footer a {
     border-left: 20px double var(--color3);
     border-bottom: 20px double var(--color3);
     display: flex;
+    box-shadow:
+        1px 1px var(--color4),
+        2px 2px var(--color4),
+        3px 3px var(--color4),
+        4px 4px var(--color4),
+        5px 5px var(--color4),
+        6px 6px var(--color4),
+        7px 7px var(--color4),
+        8px 8px var(--color4);
 }
 
 .about-me p {
@@ -245,6 +299,15 @@ footer a {
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-around;
+    box-shadow:
+        1px 1px var(--color4),
+        2px 2px var(--color4),
+        3px 3px var(--color4),
+        4px 4px var(--color4),
+        5px 5px var(--color4),
+        6px 6px var(--color4),
+        7px 7px var(--color4),
+        8px 8px var(--color4);
 }
 
 .awards i {
@@ -260,6 +323,15 @@ footer a {
     border-bottom: 20px double var(--color3);
     display: flex;
     justify-content: space-around;
+    box-shadow:
+        1px 1px var(--color4),
+        2px 2px var(--color4),
+        3px 3px var(--color4),
+        4px 4px var(--color4),
+        5px 5px var(--color4),
+        6px 6px var(--color4),
+        7px 7px var(--color4),
+        8px 8px var(--color4);
 }
 
 .features a {
@@ -314,6 +386,15 @@ form {
     color: var(--color3);
     font-family: "Space Mono", sans-serif;
     font-size: 1.5rem;
+    box-shadow:
+        1px 1px var(--color4),
+        2px 2px var(--color4),
+        3px 3px var(--color4),
+        4px 4px var(--color4),
+        5px 5px var(--color4),
+        6px 6px var(--color4),
+        7px 7px var(--color4),
+        8px 8px var(--color4);
 }
 
 #message {
@@ -325,20 +406,40 @@ form {
     color: var(--color3);
     font-family: "Space Mono", sans-serif;
     font-size: 1.5rem;
+    box-shadow:
+        1px 1px var(--color4),
+        2px 2px var(--color4),
+        3px 3px var(--color4),
+        4px 4px var(--color4),
+        5px 5px var(--color4),
+        6px 6px var(--color4),
+        7px 7px var(--color4),
+        8px 8px var(--color4);
 }
+
 
 #submit {
     width: 80%;
     font-size: 1.5rem;
     color: var(--color3);
     font-family: "Space Mono", sans-serif;
-    border: 10px double var(--color3);
+    border: 2px solid var(--color3);
     border-radius: 0px 20px 20px 0px;
     background-color: var(--color2);
     padding: 10px;
     margin-top: 20px;
     margin: 0 auto;
     cursor: pointer;
+    box-shadow:
+        1px 1px var(--color4),
+        2px 2px var(--color4),
+        3px 3px var(--color4),
+        4px 4px var(--color4),
+        5px 5px var(--color4),
+        6px 6px var(--color4),
+        7px 7px var(--color4),
+        8px 8px var(--color4);
+}
 }
 
 /* Media queries */
