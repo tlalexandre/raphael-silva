@@ -53,20 +53,22 @@ nav ul a {
     text-decoration: none;
     font-family: 'Roboto Mono', sans-serif;
     text-transform: uppercase;
-    color: var(--color3);
-    border: 1px solid var(--color4);
+    color: var(--color2);
+    border: 1px solid var(--color2);
     border-radius: 5px;
     font-size: 180%;
     margin: 0 auto;
+    padding: 5px;
+    background-color: #62cdda;
     box-shadow:
-        1px 1px var(--color4),
-        2px 2px var(--color4),
-        3px 3px var(--color4),
-        4px 4px var(--color4),
-        5px 5px var(--color4),
-        6px 6px var(--color4),
-        7px 7px var(--color4),
-        8px 8px var(--color4);
+        1px 1px var(--color2),
+        2px 2px var(--color2),
+        3px 3px var(--color2),
+        4px 4px var(--color2),
+        5px 5px var(--color2),
+        6px 6px var(--color2),
+        7px 7px var(--color2),
+        8px 8px var(--color2);
 }
 
 nav a:hover {
@@ -99,15 +101,6 @@ nav a:hover {
     color: var(--color3);
     text-transform: uppercase;
     text-align: center;
-    box-shadow:
-        1px 1px var(--color4),
-        2px 2px var(--color4),
-        3px 3px var(--color4),
-        4px 4px var(--color4),
-        5px 5px var(--color4),
-        6px 6px var(--color4),
-        7px 7px var(--color4),
-        8px 8px var(--color4);
 }
 
 .description p {
@@ -154,15 +147,7 @@ nav a:hover {
     border: 20px solid var(--color2);
     border-radius: 70px 0px 0px;
     background-size: cover;
-    box-shadow:
-        1px 1px 1px var(--color5),
-        2px 2px var(--color5),
-        3px 3px var(--color5),
-        4px 4px var(--color5),
-        5px 5px var(--color5),
-        6px 6px var(--color5),
-        7px 7px var(--color5),
-        8px 8px var(--color5);
+
 }
 
 /* Footer section */
