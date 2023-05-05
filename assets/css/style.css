@@ -14,11 +14,6 @@
     --color4: #CEF09D;
     --color2: #38184C;
     --color5: #A0CD60;
-    /* --color1: #014040;
-        --color2: #8C3623;
-        --color4: #F2E0D0;
-        --color3: #F2421B;
-        --color5: #D94B2B; */
 
 }
 
@@ -174,7 +169,7 @@ footer a {
     font-size: 3rem;
     font-family: "Space Mono", sans-serif;
     color: var(--color4);
-    /* text-transform: uppercase; */
+
     text-decoration: underline;
 }
 
@@ -182,7 +177,7 @@ footer a {
     margin: 50px;
     display: grid;
     grid-template-columns: 33% 33% 33%;
-    /* gap: 20px; */
+
 }
 
 .art {
@@ -232,7 +227,7 @@ footer a {
     color: var(--color4);
     font-family: "Roboto Mono", sans-serif;
     padding: 20px;
-    /* border: 20px double var(--color4); */
+
 }
 
 .about-container h3 {
