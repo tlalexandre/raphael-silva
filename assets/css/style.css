@@ -469,6 +469,12 @@ form {
     }
 }
 
+@media screen and (max-width:600px) {
+    .profile-pic {
+        background-position: top center;
+    }
+}
+
 @media screen and (max-width:500px) {
     #firstName {
         font-size: 3rem;
