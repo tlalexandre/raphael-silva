@@ -86,7 +86,6 @@ nav a:hover {
     color: var(--color3);
     text-transform: uppercase;
     text-align: center;
-
 }
 
 .description p {
@@ -151,8 +150,6 @@ footer a {
     font-size: 50px;
     color: var(--color3);
 }
-
-
 
 /* Gallery */
 #gallery-title {
@@ -329,7 +326,6 @@ form {
     font-family: "Space Mono", sans-serif;
     font-size: 1.5rem;
 }
-}
 
 #submit {
     width: 80%;
@@ -344,7 +340,6 @@ form {
     margin: 0 auto;
     cursor: pointer;
 }
-
 
 /* Media queries */
 
