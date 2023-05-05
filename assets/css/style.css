@@ -70,7 +70,7 @@ nav a:hover {
 .active {
     border-bottom: 1px solid var(--color4);
 }
-
+/* Home section */
 .hero-container {
     display: flex;
     justify-content: center;
@@ -139,7 +139,7 @@ nav a:hover {
     border-radius: 70px 0px 0px;
     background-size: cover;
 }
-
+/* Footer section */
 footer {
     height: 100px;
     width: 100%;
@@ -367,7 +367,7 @@ form {
 }
 
 
-
+/* Media queries */
 
 @media screen and (min-width:1700px) {
     #firstName {
