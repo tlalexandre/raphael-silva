@@ -9,11 +9,16 @@
     list-style-type: none;
     box-sizing: border-box;
     text-decoration: none;
-    --color1: #4FD19C;
-    --color2: #2F4858;
-    --color3: #266275;
-    --color4: #7AFFCA;
-    --color5: #067E8C;
+    --color1: #1C646D;
+    --color3: #1F0802;
+    --color4: #CEF09D;
+    --color2: #38184C;
+    --color5: #A0CD60;
+    /* --color1: #014040;
+        --color2: #8C3623;
+        --color4: #F2E0D0;
+        --color3: #F2421B;
+        --color5: #D94B2B; */
 
 }
 
@@ -58,24 +63,24 @@ nav a {
     text-decoration: none;
     font-family: 'Roboto Mono', sans-serif;
     text-transform: uppercase;
-    color: var(--color2);
+    color: var(--color4);
     font-size: 180%;
     margin: 0 auto;
 }
 
 nav a:hover {
-    border-bottom: 1px solid var(--color3);
+    border-bottom: 1px solid var(--color4);
 }
 
 .active {
-    border-bottom: 1px solid var(--color3);
+    border-bottom: 1px solid var(--color4);
 }
 
 .hero-container {
     display: flex;
     justify-content: center;
     margin: 80px;
-    margin-bottom: 145px;
+
 }
 
 .description {
@@ -153,7 +158,7 @@ footer ul {
     align-items: center;
 
     height: 100px;
-    background-color: var(--color3);
+    background-color: var(--color2);
 }
 
 footer a {
@@ -168,7 +173,7 @@ footer a {
     text-align: center;
     font-size: 3rem;
     font-family: "Space Mono", sans-serif;
-    color: var(--color2);
+    color: var(--color4);
     /* text-transform: uppercase; */
     text-decoration: underline;
 }
@@ -194,7 +199,7 @@ footer a {
 .presentation {
     display: none;
     position: absolute;
-    background-color: rgba(6, 126, 140, 0.7);
+    background-color: rgba(56, 24, 76, 0.7);
     bottom: 1px;
     padding: 5px;
 
@@ -205,7 +210,7 @@ footer a {
     font-size: 0.8rem;
     text-align: center;
     text-transform: uppercase;
-    color: var(--color1);
+    color: var(--color4);
 }
 
 .art:hover .presentation {
@@ -305,7 +310,7 @@ footer a {
     font-family: "Space Mono", sans-serif;
     color: var(--color4);
     margin: 0 50px 20px;
-    background-color: rgba(47, 72, 88, 1);
+    background-color: var(--color2);
     border-radius: 20px;
 
 
@@ -356,11 +361,11 @@ form {
 #submit {
     width: 80%;
     font-size: 1.5rem;
-    color: var(--color3);
+    color: var(--color4);
     font-family: "Space Mono", sans-serif;
-    border: 10px double var(--color3);
+    border: 10px double var(--color4);
     border-radius: 0px 20px 20px 0px;
-    background-color: var(--color4);
+    background-color: var(--color2);
     padding: 10px;
     margin-top: 20px;
     margin: 0 auto;
