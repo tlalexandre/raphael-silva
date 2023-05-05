@@ -10,11 +10,8 @@
     box-sizing: border-box;
     text-decoration: none;
     --color1: #1C646D;
-    --color3: #1F0802;
-    --color4: #CEF09D;
     --color2: #38184C;
-    --color5: #A0CD60;
-
+    --color3: #CEF09D;
 }
 
 body {
@@ -24,7 +21,6 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-
 }
 
 /* Navigation and logo */
@@ -36,7 +32,6 @@ nav {
 
 nav img {
     height: 100px;
-
 }
 
 nav ul {
@@ -44,38 +39,36 @@ nav ul {
     justify-content: center;
     align-items: center;
     width: 66%;
-
 }
 
 nav li {
     width: 25%;
     padding: 10px;
     text-align: center;
-
 }
 
 nav a {
     text-decoration: none;
     font-family: 'Roboto Mono', sans-serif;
     text-transform: uppercase;
-    color: var(--color4);
+    color: var(--color3);
     font-size: 180%;
     margin: 0 auto;
 }
 
 nav a:hover {
-    border-bottom: 1px solid var(--color4);
+    border-bottom: 1px solid var(--color3);
 }
 
 .active {
-    border-bottom: 1px solid var(--color4);
+    border-bottom: 1px solid var(--3);
 }
+
 /* Home section */
 .hero-container {
     display: flex;
     justify-content: center;
     margin: 80px;
-
 }
 
 .description {
@@ -86,11 +79,11 @@ nav a:hover {
         "to sil";
     background-color: var(--color2);
     width: 67%;
-    border: 20px double var(--color4);
+    border: 20px double var(--color3);
     border-radius: 0px 0px 70px;
     font-family: "Space Mono", sans-serif;
     font-size: 1.5vw;
-    color: var(--color4);
+    color: var(--color3);
     text-transform: uppercase;
     text-align: center;
 
@@ -104,7 +97,7 @@ nav a:hover {
 #firstName {
     grid-area: ra;
     text-transform: uppercase;
-    color: var(--color4);
+    color: var(--color3);
     font-size: 7.7vw;
     font-family: "Space Mono", sans-serif;
     text-align: left;
@@ -124,7 +117,7 @@ nav a:hover {
 #lastName {
     grid-area: sil;
     text-transform: uppercase;
-    color: var(--color4);
+    color: var(--color3);
     font-size: 7.7vw;
     font-family: "Space Mono", sans-serif;
     text-align: right;
@@ -139,26 +132,24 @@ nav a:hover {
     border-radius: 70px 0px 0px;
     background-size: cover;
 }
+
 /* Footer section */
 footer {
     height: 100px;
     width: 100%;
-
-
 }
 
 footer ul {
     display: flex;
     justify-content: space-around;
     align-items: center;
-
     height: 100px;
     background-color: var(--color2);
 }
 
 footer a {
     font-size: 50px;
-    color: var(--color4);
+    color: var(--color3);
 }
 
 
@@ -168,8 +159,7 @@ footer a {
     text-align: center;
     font-size: 3rem;
     font-family: "Space Mono", sans-serif;
-    color: var(--color4);
-
+    color: var(--color3);
     text-decoration: underline;
 }
 
@@ -177,18 +167,15 @@ footer a {
     margin: 50px;
     display: grid;
     grid-template-columns: 33% 33% 33%;
-
 }
 
 .art {
     position: relative;
-
 }
 
 .art img,
 .art video {
     width: 100%;
-
 }
 
 .presentation {
@@ -197,7 +184,6 @@ footer a {
     background-color: rgba(56, 24, 76, 0.7);
     bottom: 1px;
     padding: 5px;
-
 }
 
 .presentation span {
@@ -205,7 +191,7 @@ footer a {
     font-size: 0.8rem;
     text-align: center;
     text-transform: uppercase;
-    color: var(--color4);
+    color: var(--color3);
 }
 
 .art:hover .presentation {
@@ -224,10 +210,9 @@ footer a {
 .about-container div {
     margin-bottom: 20px;
     background: var(--color2);
-    color: var(--color4);
+    color: var(--color3);
     font-family: "Roboto Mono", sans-serif;
     padding: 20px;
-
 }
 
 .about-container h3 {
@@ -238,76 +223,66 @@ footer a {
 .about-me {
     border-radius: 20px 0 0 20px;
     margin-left: 15%;
-    border-top: 20px double var(--color4);
-    border-left: 20px double var(--color4);
-    border-bottom: 20px double var(--color4);
+    border-top: 20px double var(--color3);
+    border-left: 20px double var(--color3);
+    border-bottom: 20px double var(--color3);
     display: flex;
 }
 
 .about-me p {
     padding-bottom: 10px;
-
 }
 
 .about-me i {
     font-size: 15rem;
     margin-top: 20px;
-
 }
 
 .awards {
     text-align: right;
     margin-right: 15%;
     border-radius: 0 20px 20px 0;
-
-    border-top: 20px double var(--color4);
-    border-right: 20px double var(--color4);
-    border-bottom: 20px double var(--color4);
+    border-top: 20px double var(--color3);
+    border-right: 20px double var(--color3);
+    border-bottom: 20px double var(--color3);
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-around;
-
 }
 
 .awards i {
     font-size: 15rem;
     margin-top: 20px;
-
 }
 
 .features {
-
     border-radius: 20px 0 0 20px;
     margin-left: 15%;
-
-    border-top: 20px double var(--color4);
-    border-left: 20px double var(--color4);
-    border-bottom: 20px double var(--color4);
+    border-top: 20px double var(--color3);
+    border-left: 20px double var(--color3);
+    border-bottom: 20px double var(--color3);
     display: flex;
     justify-content: space-around;
 }
 
 .features a {
-    color: var(--color4);
+    color: var(--color3);
     text-decoration: underline;
 }
 
 .features i {
     font-size: 15rem;
     margin-top: 20px;
-
 }
 
 /* Contact Form */
 
 .contact-me {
     font-family: "Space Mono", sans-serif;
-    color: var(--color4);
+    color: var(--color3);
     margin: 0 50px 20px;
     background-color: var(--color2);
     border-radius: 20px;
-
-
 }
 
 .contact-me img {
@@ -331,33 +306,30 @@ form {
     padding: 50px;
     font-size: 1.5rem;
     line-height: 40px;
-
-
 }
 
 .textinput {
     width: 100%;
     height: 40px;
     background: transparent;
-    border: 2px solid var(--color4);
+    border: 2px solid var(--color3);
     border-radius: 0px 20px 20px 0px;
-
 }
 
 #message {
     resize: none;
     width: 100%;
     background: transparent;
-    border: 2px solid var(--color4);
+    border: 2px solid var(--color3);
     border-radius: 0px 20px 20px 0px;
 }
 
 #submit {
     width: 80%;
     font-size: 1.5rem;
-    color: var(--color4);
+    color: var(--color3);
     font-family: "Space Mono", sans-serif;
-    border: 10px double var(--color4);
+    border: 10px double var(--color3);
     border-radius: 0px 20px 20px 0px;
     background-color: var(--color2);
     padding: 10px;
@@ -371,17 +343,14 @@ form {
 
 @media screen and (min-width:1700px) {
     #firstName {
-
         top: 20%;
     }
-
 }
 
 @media screen and (max-width:1000px) {
     #submit {
         font-size: 1rem;
     }
-
 }
 
 @media screen and (max-width:800px) {
@@ -396,10 +365,8 @@ form {
     }
 
     nav ul {
-
         width: 100%;
         margin-right: 0;
-
     }
 
     nav a {
@@ -411,14 +378,12 @@ form {
         width: 80%;
         margin: auto;
         margin-bottom: 50px;
-
     }
 
     .profile-pic {
         width: 100%;
         height: 300px;
         background-position: center -100px;
-
 
     }
 
@@ -507,7 +472,6 @@ form {
 @media screen and (max-width:500px) {
     #firstName {
         font-size: 3rem;
-
     }
 
     #lastName {
@@ -522,7 +486,6 @@ form {
 
     .contact-me {
         margin: 0 10px;
-
     }
 
     #submit {
