@@ -11,9 +11,10 @@
     text-decoration: none;
     --color1: #1C646D;
     --color2: #38184C;
-    --color3: #CEF09D;
-    --color4: #e08f33;
+    --color3: #62cdda;
+    --color4: #4c007b;
     --color5: #ce7eff;
+
 }
 
 body {
@@ -57,22 +58,25 @@ nav ul a {
     border: 1px solid var(--color2);
     border-radius: 5px;
     font-size: 180%;
-    margin: 0 auto;
+    margin-right: 20px;
     padding: 5px;
-    background-color: #62cdda;
+    background-color: var(--color3);
     box-shadow:
-        1px 1px var(--color2),
-        2px 2px var(--color2),
-        3px 3px var(--color2),
-        4px 4px var(--color2),
-        5px 5px var(--color2),
-        6px 6px var(--color2),
-        7px 7px var(--color2),
-        8px 8px var(--color2);
+        1px 1px var(--color4),
+        2px 2px var(--color4),
+        3px 3px var(--color4),
+        4px 4px var(--color4),
+        5px 5px var(--color4),
+        6px 6px var(--color4),
+        7px 7px var(--color4),
+        8px 8px var(--color4);
 }
 
-nav a:hover {
-    border-bottom: 1px solid var(--color3);
+nav ul a:active {
+    box-shadow: 0px 0px var(--color4);
+    top: 10px;
+    right: 10px;
+    transition: all 0.5s ease;
 }
 
 .active {
@@ -454,10 +458,10 @@ form {
 
     nav ul {
         width: 100%;
-        margin-right: 0;
+        padding: 10px;
     }
 
-    nav a {
+    nav ul a {
         font-size: 1rem;
     }
 
