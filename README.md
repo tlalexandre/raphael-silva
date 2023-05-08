@@ -3,6 +3,7 @@
 Raphael Silva is a site that allows people to discover the work of Raphael Silva, a Brazilian artist based in Dublin. The site is targeted toward business and private customers that would need help with design for websites or ads. 
 
 ![ResponsiveSilva](https://user-images.githubusercontent.com/120526785/236818459-dbe1af8d-3558-41cf-9304-2d3d70602954.png)
+
 View Live Site:
 https://tlalexandre.github.io/raphael-silva/
 
