@@ -79,10 +79,6 @@ nav ul a:active {
     transition: all 0.5s ease;
 }
 
-.active {
-    border-bottom: 1px solid var(--3);
-}
-
 /* Home section */
 .hero-container {
     display: flex;
@@ -120,7 +116,15 @@ nav ul a:active {
     font-family: "Space Mono", sans-serif;
     text-align: left;
     margin-left: 20px;
-    text-shadow: 1px 1px 1px var(--color4), 2px 2px var(--color4), 3px 3px var(--color4), 4px 4px var(--color4), 5px 5px var(--color4), 6px 6px var(--color4), 7px 7px var(--color4), 8px 8px var(--color4);
+    text-shadow:
+        1px 1px var(--color4),
+        2px 2px var(--color4),
+        3px 3px var(--color4),
+        4px 4px var(--color4),
+        5px 5px var(--color4),
+        6px 6px var(--color4),
+        7px 7px var(--color4),
+        8px 8px var(--color4);
 }
 
 .tools {
@@ -141,7 +145,15 @@ nav ul a:active {
     font-family: "Space Mono", sans-serif;
     text-align: right;
     margin-right: 20px;
-    text-shadow: 1px 1px 1px var(--color4), 2px 2px var(--color4), 3px 3px var(--color4), 4px 4px var(--color4), 5px 5px var(--color4), 6px 6px var(--color4), 7px 7px var(--color4), 8px 8px var(--color4);
+    text-shadow:
+        1px 1px var(--color4),
+        2px 2px var(--color4),
+        3px 3px var(--color4),
+        4px 4px var(--color4),
+        5px 5px var(--color4),
+        6px 6px var(--color4),
+        7px 7px var(--color4),
+        8px 8px var(--color4);
 }
 
 .profile-pic {
@@ -151,7 +163,6 @@ nav ul a:active {
     border: 20px solid var(--color2);
     border-radius: 70px 0px 0px;
     background-size: cover;
-
 }
 
 /* Footer section */
@@ -478,7 +489,6 @@ form {
         width: 100%;
         height: 300px;
         background-position: center -100px;
-
     }
 
     .description {
@@ -493,7 +503,6 @@ form {
     }
 
     #lastName {
-
         top: 39%;
         right: 0;
         font-size: 5rem;
