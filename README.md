@@ -34,17 +34,15 @@ Raphael Silva is a site that allows people to discover the work of Raphael Silva
     - The About Me section allows the user to get to know the artist better, about where is from, which companies he worked for, where did he study.
     - The Awards section shows the differents awards that the artist got.
     - The Features section shows where the artist was referred as on differents websites. This allows the user to check the opinion of people about the artist.
-    - 
+    
 ![AboutPage](https://user-images.githubusercontent.com/120526785/236820452-9b86b3cc-4dc6-4ec0-bac3-b2641d7b014b.png)
-
-
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
-
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+  - The footer section includes links to the relevant social media sites for Raphael Silva. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media to find out more about the artist.
+  
+![Footer](https://user-images.githubusercontent.com/120526785/236820783-c7dcb9f6-6d59-4f40-ab58-9828b4690bc9.png)
 
 - __Gallery__
 
