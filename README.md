@@ -1,30 +1,26 @@
-# Love Running
+# Raphael Silva
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+Raphael Silva is a site that allows people to discover the work of Raphael Silva, a Brazilian artist based in Dublin. The site is targeted toward business and private customers that would need help with design for websites or ads. 
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
-
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![ResponsiveSilva](https://user-images.githubusercontent.com/120526785/236818459-dbe1af8d-3558-41cf-9304-2d3d70602954.png)
 
 ## Features 
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Existing Features
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery, About and Sign Up page and is identical in each page to allow for easy navigation.
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+  
+  ![NavBar](https://user-images.githubusercontent.com/120526785/236818663-22f267ce-6330-4f12-9785-feeb0828ff9e.png)
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+- __The Home Page__
 
-- __The landing page image__
+  - The Home Page includes a photo of Raphael Silva, the artist, on the left. On the right, you can find useful informations about him, such as his job title and the tools he uses.
+  
+![HomePage](https://user-images.githubusercontent.com/120526785/236819149-b0ec365d-0515-4e44-b664-02e6de03cc68.png)
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
-
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
 - __Club Ethos Section__
 
