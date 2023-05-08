@@ -13,7 +13,7 @@
     --color2: #38184C;
     --color3: #e3e3e3;
     --color4: #4c007b;
-    --color5: #ce7eff;
+
 
 }
 
@@ -58,7 +58,7 @@ nav ul a {
     border: 1px solid var(--color2);
     border-radius: 5px;
     font-size: 180%;
-    margin-right: 20px;
+    margin-left: -20px;
     padding: 5px;
     background-color: var(--color3);
     box-shadow:
@@ -351,6 +351,8 @@ i {
     font-size: 3rem;
     text-transform: uppercase;
     text-align: center;
+    text-decoration: underline;
+    text-decoration-thickness: 8px;
 }
 
 .form-container {
@@ -429,7 +431,7 @@ form {
         7px 7px var(--color4),
         8px 8px var(--color4);
 }
-}
+
 
 /* Media queries */
 
@@ -577,9 +579,17 @@ form {
     }
 }
 
-@media screen and (max-width:300px) {
-    nav a {
+@media screen and (max-width:320px) {
+    nav ul a {
         font-size: 0.8rem;
+    }
+
+    #firstName {
+        font-size: 2.5rem;
+    }
+
+    #lastName {
+        font-size: 2.5rem;
     }
 
     .contact-me {
