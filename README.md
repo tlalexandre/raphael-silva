@@ -56,8 +56,10 @@ Raphael Silva is a site that allows people to discover the work of Raphael Silva
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftlalexandre.github.io%2Fraphael-silva%2F)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftlalexandre.github.io%2Fraphael-silva%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  
   - Contrast Checking: 
   Pass![Contrast Checker](https://user-images.githubusercontent.com/120526785/236825381-c17e2eed-ae72-4892-a8de-2452fa31cfd9.png)
+  
   - LightHouse
    ![Lightouse](https://user-images.githubusercontent.com/120526785/236825482-abf93de4-3cf9-40c1-81fc-c2c3eaa3f174.png)
 
