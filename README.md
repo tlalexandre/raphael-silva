@@ -15,7 +15,7 @@ Raphael Silva is a  responsive website that allows people to discover the work o
 
 
 # Content
-..* User Experience
+* User Experience
 
 
 ## Features 
