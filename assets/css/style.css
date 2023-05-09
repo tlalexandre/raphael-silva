@@ -419,6 +419,24 @@ form {
         8px 8px var(--color4);
 }
 
+fieldset {
+    text-align: center;
+    border: 2px solid var(--color3);
+    border-radius: 0px 20px 20px 0px;
+    box-shadow:
+        1px 1px var(--color4),
+        2px 2px var(--color4),
+        3px 3px var(--color4),
+        4px 4px var(--color4),
+        5px 5px var(--color4),
+        6px 6px var(--color4),
+        7px 7px var(--color4),
+        8px 8px var(--color4);
+}
+
+#private {
+    margin-right: 2em;
+}
 
 #submit {
     width: 80%;
