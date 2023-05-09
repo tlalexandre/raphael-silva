@@ -137,7 +137,8 @@ The images and the logo were used the permission of the artist. All the pics fro
   - Every field in the form is required to avoid empty messages, names or email. Each input also has the autocomplete feature which allows the user to complete the form faster.
   
   ![ContactMe](https://user-images.githubusercontent.com/120526785/236821465-5707b754-eb70-4a5c-bace-c763ce7c0b65.png)
-  ![ContactPageMobile (1)](https://github.com/tlalexandre/raphael-silva/assets/120526785/75620edd-ca48-478a-9474-ded72e1d46be)
+  ![ContactPageMobile (1)](https://github.com/tlalexandre/raphael-silva/assets/120526785/6fa0f20b-5929-40bb-b723-09231f0d142b)
+
 
 ## Future Implementations
   - Use Javascript to put animations on the 3D shadows on the Home page.
