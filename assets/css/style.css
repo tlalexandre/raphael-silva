@@ -209,6 +209,7 @@ i {
     margin: 50px;
     display: grid;
     grid-template-columns: 33% 33% 33%;
+    gap: 1em;
 }
 
 .art {
@@ -290,7 +291,6 @@ i {
 }
 
 .awards {
-    text-align: right;
     margin-right: 15%;
     border-radius: 0 20px 20px 0;
     border-top: 20px double var(--color3);
