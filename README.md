@@ -97,17 +97,17 @@ The images and the logo were used the permission of the artist. All the pics fro
 
  - __Navigation Bar__
 
-  - The full responsive navigation bar includes links to the Logo, Home page, Gallery, About and Sign Up page and is identical in each page to allow for easy navigation.
-  - This navigation bar font size and the layout of the navigation changes to stack under the Logo for devices under 800px.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
-  - The design of the buttons is made using box-shadow, to remind of the digital and graphic design as a theme for the website.
+   - The full responsive navigation bar includes links to the Logo, Home page, Gallery, About and Sign Up page and is identical in each page to allow for easy navigation.
+   - This navigation bar font size and the layout of the navigation changes to stack under the Logo for devices under 800px.
+   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+   - The design of the buttons is made using box-shadow, to remind of the digital and graphic design as a theme for the website.
   
   ![NavBar](https://user-images.githubusercontent.com/120526785/236818663-22f267ce-6330-4f12-9785-feeb0828ff9e.png)
   
  - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Raphael Silva. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media to find out more about the artist.
+   - The footer section includes links to the relevant social media sites for Raphael Silva. The links will open to a new tab to allow easy navigation for the user. 
+   - The footer is valuable to the user as it encourages them to keep connected via social media to find out more about the artist.
   
 ![Footer](https://user-images.githubusercontent.com/120526785/236820783-c7dcb9f6-6d59-4f40-ab58-9828b4690bc9.png)
 
