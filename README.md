@@ -2,7 +2,8 @@
 
 Raphael Silva is a  responsive website that allows people to discover the work of Raphael Silva, a Brazilian artist based in Dublin, on range of differents devices. The site is targeted toward business and private customers that would need help with design for websites or ads. 
 
-![ResponsiveSilva](https://user-images.githubusercontent.com/120526785/237033676-7b283e1b-ff54-4f5c-87f4-8bf7a852c11f.png)
+![ResponsiveSilva](https://user-images.githubusercontent.com/120526785/237052852-0c6d5906-02f2-4c07-9015-4d82313d71a1.png)
+
 
 
 [Discover Raphael Silva's work](https://tlalexandre.github.io/raphael-silva/)
@@ -144,9 +145,16 @@ The images and the logo were used the permission of the artist. All the pics fro
   
 - __Future Implementations on the page__
 
-  -Use Javascript to put animations on the 3D shadows on the Home page.
-  -Use Javascript to change the layout of the gallery, with names of the creations written, that would display the creation on hover.
-  
+  - Use Javascript to put animations on the 3D shadows on the Home page.
+  - Use Javascript to change the layout of the gallery, with names of the creations written, that would display the creation on hover.
+
+### Accessibility
+I have been mindful during coding this website to ensure that it was as accessible friendly as possible.I've made that possible by:
+ - Using semantic HTML
+ - Giving an alt attribute to every pictures on the websites
+ - Giving a aria-label to videos, and icons in the footer.
+ - Giving an aria-hidden attribute to the icons in the About page.
+ - Ensuring the colour contrast in the site is strong enough to meet the accessibilty norm.
 
 ### Validator Testing 
 
@@ -161,6 +169,20 @@ The images and the logo were used the permission of the artist. All the pics fro
   ### LightHouse
    ![Lightouse](https://user-images.githubusercontent.com/120526785/236825482-abf93de4-3cf9-40c1-81fc-c2c3eaa3f174.png)
 
+## Technologies Used
+### Languages Used
+HTML and CSS were used to create this website.
+There's also a script at the end of the HTML to allow the use of icons from FontAwesome.
+
+### Frameworks & Programs Used
+* Git- For version control
+* GitHub - To save and store the files for the website.
+* Google Fonts - To import the fonts used for the website.
+* Font Awesome - For the icons on the website.
+* Google Dev Tools - To troubleshoot and test the features, fix issues with styling.
+* FastDL- To download Instagram pictures.
+* IamSilva - Actual website of Raphael Silva, for all the text content, and the Logo.
+* Am 
 
 ## Deployment
 
