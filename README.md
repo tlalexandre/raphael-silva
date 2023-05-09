@@ -22,7 +22,6 @@ Raphael Silva is a  responsive website that allows people to discover the work o
   * [Colour Scheme](#colour-scheme)
   * [Typography](#typography)
   * [Imagery](#imagery)
-  * [Wireframes](#wireframes)
 
 * [Features](#features)
   * [General Features on Each Page](#general-features-on-each-page)
@@ -142,6 +141,11 @@ The images and the logo were used the permission of the artist. All the pics fro
   - Every field in the form is required to avoid empty messages, names or email. Each input also has the autocomplete feature which allows the user to complete the form faster.
   
   ![ContactMe](https://user-images.githubusercontent.com/120526785/236821465-5707b754-eb70-4a5c-bace-c763ce7c0b65.png)
+  
+- Future Implementations on the page
+  -Use Javascript to put animations on the 3D shadows on the Home page.
+  -Use Javascript to change the layout of the gallery, with names of the creations written, that would display the creation on hover.
+  
 
 ### Validator Testing 
 
