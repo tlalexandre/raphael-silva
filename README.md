@@ -111,7 +111,7 @@ The images and the logo were used the permission of the artist. All the pics fro
   
 ![Footer](https://user-images.githubusercontent.com/120526785/236820783-c7dcb9f6-6d59-4f40-ab58-9828b4690bc9.png)
 
-- __The Home Page__
+- __Home Page__
 
   - The Home Page includes a photo of Raphael Silva, the artist, on the left. On the right, you can find useful informations about him, such as his job title and the tools he uses.
   - This page is fully responsive. The font-size of the text changes depending on the size of the viewport, as well as the positioning of the elements, from a grid on desktop to a display block on mobile devices.
@@ -142,7 +142,8 @@ The images and the logo were used the permission of the artist. All the pics fro
   
   ![ContactMe](https://user-images.githubusercontent.com/120526785/236821465-5707b754-eb70-4a5c-bace-c763ce7c0b65.png)
   
-- Future Implementations on the page
+- __Future Implementations on the page__
+
   -Use Javascript to put animations on the 3D shadows on the Home page.
   -Use Javascript to change the layout of the gallery, with names of the creations written, that would display the creation on hover.
   
