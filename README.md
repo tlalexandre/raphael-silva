@@ -114,7 +114,8 @@ The images and the logo were used the permission of the artist. All the pics fro
   - This page is fully responsive. The font-size of the text changes depending on the size of the viewport, as well as the positioning of the elements, from a grid on desktop to a display block on mobile devices.
   
 ![HomePage on Desktop](https://user-images.githubusercontent.com/120526785/236819149-b0ec365d-0515-4e44-b664-02e6de03cc68.png)
-![HomePageMobile](https://github.com/tlalexandre/raphael-silva/assets/120526785/7ce6122e-d3b0-4c70-afc7-2b564753cc12)
+![HomePageMobile (1)](https://github.com/tlalexandre/raphael-silva/assets/120526785/6c1cfc87-93e6-4c3f-a33a-b469b4110c9d)
+
 
 
 
