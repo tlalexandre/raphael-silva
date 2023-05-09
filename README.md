@@ -31,19 +31,11 @@ Raphael Silva is a  responsive website that allows people to discover the work o
   * [Languages Used](#languages-used)
   * [Frameworks & Programs Used](#frameworks-&-programs-used)
 
-* [Deployment & Local Development](#deployment--local-development)
-  * [Deployment](#deployment)
-  * [Local Development](#local-development)
-    * [How to Fork](#how-to-fork)
-    * [How to Clone](#how-to-clone)
-
-* [Testing](#testing)
+* [Deployment](#deployment)
 
 * [Credits](#credits)
-  * [Code Used](#code-used)
   * [Content](#content)
   * [Media](#media)
-  * [Acknowledgments](#acknowledgments)
 
 # User Experience (UX)
 ## Initial Discussion
