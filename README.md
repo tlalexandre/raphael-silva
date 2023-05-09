@@ -113,7 +113,8 @@ The images and the logo were used the permission of the artist. All the pics fro
   - The Home Page includes a photo of Raphael Silva, the artist, on the left. On the right, you can find useful informations about him, such as his job title and the tools he uses.
   - This page is fully responsive. The font-size of the text changes depending on the size of the viewport, as well as the positioning of the elements, from a grid on desktop to a display block on mobile devices.
   
-![HomePage](https://user-images.githubusercontent.com/120526785/236819149-b0ec365d-0515-4e44-b664-02e6de03cc68.png)
+![HomePage on Desktop](https://user-images.githubusercontent.com/120526785/236819149-b0ec365d-0515-4e44-b664-02e6de03cc68.png)
+![HomePageMobile](https://github.com/tlalexandre/raphael-silva/assets/120526785/91539ec1-d186-4c00-a0d5-25387e601c14)
 
 
 ### Gallery Page
