@@ -49,6 +49,7 @@ Raphael Silva is a  responsive website that allows people to discover the work o
   * [Media](#media)
 
 # User Experience (UX)
+
 ## Initial Discussion
 Raphael Silva is an online gallery for Raphael Silva's work. Users can navigate through the site to discover his work, learn more about his carreer , and eventually contact him. 
 
@@ -60,14 +61,12 @@ Raphael Silva is an online gallery for Raphael Silva's work. Users can navigate 
 ## User Stories
 
 ### Clients Goals
-
 * Being able to view the site on wide range of devices.
 * To be able to check on the work of the artist.
 * To contact the artist to support him, or for any projects.
 * To learn more about the artist, and his carreer.
 
 ### First Time Visitor Goals
-
 * I want to discover the universe of Raphael Silva.
 * I want to be able to navigate the site easily.
 * I want to be able to find his work.
@@ -86,7 +85,6 @@ I wanted the colours to reflect the colourful universe of the artist, something 
 ![ColorRaphaelSilva](https://user-images.githubusercontent.com/120526785/237040695-05d0cab7-b83c-4e0d-bbb5-04d8333e2fee.png)
 
 ## Typography
-
 Google Fonts was used for the following fonts :
 * Roboto Mono is used for the navigation, the About page, and the Contact Form.
 * Space Mono is used for the rest of the website, such as the hero-container, or the Gallery Title.
@@ -98,7 +96,6 @@ The images and the logo were used the permission of the artist. All the pics fro
  ### General Features
  
  #### Navigation Bar
-
    - The full responsive navigation bar includes links to the Logo, Home page, Gallery, About and Sign Up page and is identical in each page to allow for easy navigation.
    - This navigation bar font size and the layout of the navigation changes to stack under the Logo for devices under 800px.
    - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
@@ -107,14 +104,12 @@ The images and the logo were used the permission of the artist. All the pics fro
   ![NavBar](https://user-images.githubusercontent.com/120526785/236818663-22f267ce-6330-4f12-9785-feeb0828ff9e.png)
   
  #### Footer
-
    - The footer section includes links to the relevant social media sites for Raphael Silva. The links will open to a new tab to allow easy navigation for the user. 
    - The footer is valuable to the user as it encourages them to keep connected via social media to find out more about the artist.
   
 ![Footer](https://user-images.githubusercontent.com/120526785/236820783-c7dcb9f6-6d59-4f40-ab58-9828b4690bc9.png)
 
 ### Home Page
-
   - The Home Page includes a photo of Raphael Silva, the artist, on the left. On the right, you can find useful informations about him, such as his job title and the tools he uses.
   - This page is fully responsive. The font-size of the text changes depending on the size of the viewport, as well as the positioning of the elements, from a grid on desktop to a display block on mobile devices.
   
@@ -122,14 +117,12 @@ The images and the logo were used the permission of the artist. All the pics fro
 
 
 ### Gallery Page
-
   - The Gallery Page allows the user to discover the work of the artist, and it includes a short description for each pictures. 
   - The description is not displayed on mobile for responsive purposes.The description is made from the tags that the artist put on his work on Instagram.
   
 ![GalleryPage](https://user-images.githubusercontent.com/120526785/236819553-3bf1c657-a903-4c7b-a60f-8b837090cce4.png)
 
 ### About Page
-
   - The About Page allows the user to learn more about the artist, in three differents sections.
     - The About Me section allows the user to get to know the artist better, about where is from, which companies he worked for, where did he study.
     - The Awards section shows the differents awards that the artist got through the years.
@@ -138,14 +131,12 @@ The images and the logo were used the permission of the artist. All the pics fro
 ![AboutPage](https://user-images.githubusercontent.com/120526785/236820452-9b86b3cc-4dc6-4ec0-bac3-b2641d7b014b.png)
 
 ### Contact Page
-
   - This page allows the user to contact the artist for any request, for a project or to give an opinion about previous work. This page is useful for both business or private customers.
   - Every field in the form is required to avoid empty messages, names or email. Each input also has the autocomplete feature which allows the user to complete the form faster.
   
   ![ContactMe](https://user-images.githubusercontent.com/120526785/236821465-5707b754-eb70-4a5c-bace-c763ce7c0b65.png)
   
 ## Future Implementations
-
   - Use Javascript to put animations on the 3D shadows on the Home page.
   - Use Javascript to change the layout of the gallery, with names of the creations written, that would display the creation on hover.
 
@@ -158,7 +149,6 @@ I have been mindful during coding this website to ensure that it was as accessib
  - Ensuring the colour contrast in the site is strong enough to meet the accessibilty norm.
 
 ## Validator Testing 
-
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftlalexandre.github.io%2Fraphael-silva%2F)
 - CSS
@@ -171,6 +161,7 @@ I have been mindful during coding this website to ensure that it was as accessib
    ![Lightouse](https://user-images.githubusercontent.com/120526785/236825482-abf93de4-3cf9-40c1-81fc-c2c3eaa3f174.png)
 
 ## Technologies Used
+
 ### Languages Used
 HTML and CSS were used to create this website.
 There's also a script at the end of the HTML to allow the use of icons from FontAwesome.
@@ -185,9 +176,9 @@ There's also a script at the end of the HTML to allow the use of icons from Font
 * IamSilva - Actual website of Raphael Silva, for all the text content, and the Logo.
 * Am I Responsive? - To show the website image on a range of devices.
 * Shields.io -To add badges to the README
+* Contrast Checker - To check the contrast was good for accessibility purpose.
 
 ## Deployment
-
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
@@ -198,7 +189,6 @@ The live link can be found here - https://tlalexandre.github.io/raphael-silva/
 ## Credits 
 
 ### Content 
-
 - The text content was taken from the previous website of Raphael Silva, who kindly allowed me to use it.(http://www.iamsilva.work/)
 - The animation on the navigation buttons was suggested by my classmates Darrach Barneveld and Dario.
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
