@@ -24,7 +24,7 @@ Raphael Silva is a  responsive website that allows people to discover the work o
   * [Typography](#typography)
   * [Imagery](#imagery)
   * [Features](#features)
-  * [Future Implementations](#future-implementations)
+  * [Future Implementations](#future-implementations-on-the-page)
   * [Accessibility](#accessibility)
 
 * [Technologies Used](#technologies-used)
