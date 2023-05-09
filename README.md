@@ -114,14 +114,14 @@ The images and the logo were used the permission of the artist. All the pics fro
   - This page is fully responsive. The font-size of the text changes depending on the size of the viewport, as well as the positioning of the elements, from a grid on desktop to a display block on mobile devices.
   
 ![HomePage on Desktop](https://user-images.githubusercontent.com/120526785/236819149-b0ec365d-0515-4e44-b664-02e6de03cc68.png)
-![HomePageMobile (1)](https://github.com/tlalexandre/raphael-silva/assets/120526785/6c1cfc87-93e6-4c3f-a33a-b469b4110c9d)
+                    ![HomePageMobile (1)](https://github.com/tlalexandre/raphael-silva/assets/120526785/6c1cfc87-93e6-4c3f-a33a-b469b4110c9d)
 
 ### Gallery Page
   - The Gallery Page allows the user to discover the work of the artist, and it includes a short description for each pictures. 
   - The description is not displayed on mobile for responsive purposes.The description is made from the tags that the artist put on his work on Instagram.
   
 ![GalleryPage](https://user-images.githubusercontent.com/120526785/236819553-3bf1c657-a903-4c7b-a60f-8b837090cce4.png)
-![GalleryPageMobile (1)](https://github.com/tlalexandre/raphael-silva/assets/120526785/c1702648-b58d-4b55-9229-23a72435e544)
+                    ![GalleryPageMobile (1)](https://github.com/tlalexandre/raphael-silva/assets/120526785/c1702648-b58d-4b55-9229-23a72435e544)
 
 ### About Page
   - The About Page allows the user to learn more about the artist, in three differents sections.
@@ -130,14 +130,14 @@ The images and the logo were used the permission of the artist. All the pics fro
     - The Features section shows where the artist was referred as on differents websites. This allows the user to check the public opinion about the artist.
     
 ![AboutPage](https://user-images.githubusercontent.com/120526785/236820452-9b86b3cc-4dc6-4ec0-bac3-b2641d7b014b.png)
-![AboutPageMobile (1)](https://github.com/tlalexandre/raphael-silva/assets/120526785/ccf8367f-ddd4-42e9-84ff-e11a17e038ec)
+                   ![AboutPageMobile (1)](https://github.com/tlalexandre/raphael-silva/assets/120526785/ccf8367f-ddd4-42e9-84ff-e11a17e038ec)
 
 ### Contact Page
   - This page allows the user to contact the artist for any request, for a project or to give an opinion about previous work. This page is useful for both business or private customers.
   - Every field in the form is required to avoid empty messages, names or email. Each input also has the autocomplete feature which allows the user to complete the form faster.
   
   ![ContactMe](https://user-images.githubusercontent.com/120526785/236821465-5707b754-eb70-4a5c-bace-c763ce7c0b65.png)
-  ![ContactPageMobile (1)](https://github.com/tlalexandre/raphael-silva/assets/120526785/6fa0f20b-5929-40bb-b723-09231f0d142b)
+                   ![ContactPageMobile (1)](https://github.com/tlalexandre/raphael-silva/assets/120526785/6fa0f20b-5929-40bb-b723-09231f0d142b)
 
 
 ## Future Implementations
