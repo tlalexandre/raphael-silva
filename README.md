@@ -47,6 +47,42 @@ Raphael Silva is a  responsive website that allows people to discover the work o
   * [Media](#media)
   * [Acknowledgments](#acknowledgments)
 
+# User Experience (UX)
+## Initial Discussion
+Raphael Silva is an online gallery for Raphael Silva's work. Users can navigate through the site to discover his work, learn more about his carreer , and eventually contact him. 
+
+### Key information on the site
+* Information about Raphael Silva
+* Gallery showing his work
+* Contact form for any work related or not request
+
+## User Stories
+
+### Clients Goals
+
+* Being able to view the site on wide range of devices.
+* To be able to check on the work of the artist.
+* To contact the artist to support him, or for any projects.
+* To learn more about the artist, and his carreer.
+
+### First Time Visitor Goals
+
+* I want to discover the universe of Raphael Silva.
+* I want to be able to navigate the site easily.
+* I want to be able to find his work.
+* I want to find his social medias.
+
+### Returning Visitor Goals
+* I want to contact the artist for a project.
+* I want to see if the artist released any new project.
+* I want to be able to contact the artist about his technics.
+
+# Design
+## Colour Scheme
+
+I wanted the colours to reflect the colourful universe of the artist, something brightful, contrasted as his work.
+
+![ColorRaphaelSilva](https://user-images.githubusercontent.com/120526785/237040695-05d0cab7-b83c-4e0d-bbb5-04d8333e2fee.png)
 
 ## Features 
 
