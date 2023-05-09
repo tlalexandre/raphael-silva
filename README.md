@@ -26,6 +26,9 @@ Raphael Silva is a  responsive website that allows people to discover the work o
   * [Features](#features)
   * [Future Implementations](#future-implementations)
   * [Accessibility](#accessibility)
+    * [Validator Testing}(#validator-testing)
+    * [Contrast Checking](#contrast-checking)'
+    * [Lighthouse](#lighthouse)
 
 * [Technologies Used](#technologies-used)
   * [Languages Used](#languages-used)
@@ -134,7 +137,7 @@ The images and the logo were used the permission of the artist. All the pics fro
   
   ![ContactMe](https://user-images.githubusercontent.com/120526785/236821465-5707b754-eb70-4a5c-bace-c763ce7c0b65.png)
   
-- __Future Implementations__
+### Future Implementations
 
   - Use Javascript to put animations on the 3D shadows on the Home page.
   - Use Javascript to change the layout of the gallery, with names of the creations written, that would display the creation on hover.
