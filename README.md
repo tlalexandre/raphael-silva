@@ -96,10 +96,10 @@ The images and the logo were used the permission of the artist. All the pics fro
 ## Features 
 - All pages on the website have:
 
- -__Navigation Bar__
+ - __Navigation Bar__
 
-  - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery, About and Sign Up page and is identical in each page to allow for easy navigation.
-  - This navigation bar is fully responsive, for devices that are less than 800px wide, the font size and the layout of the navigation changes to stack under the Logo.
+  - The full responsive navigation bar includes links to the Logo, Home page, Gallery, About and Sign Up page and is identical in each page to allow for easy navigation.
+  - This navigation bar font size and the layout of the navigation changes to stack under the Logo for devices under 800px.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
   
   ![NavBar](https://user-images.githubusercontent.com/120526785/236818663-22f267ce-6330-4f12-9785-feeb0828ff9e.png)
