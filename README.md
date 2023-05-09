@@ -94,8 +94,9 @@ Google Fonts was used for the following fonts :
 The images and the logo were used the permission of the artist. All the pics from the gallery where taken from the Instagram of the artist.
 
 ## Features 
+* All pages on the website have:
 
-- __Navigation Bar__
+** __Navigation Bar__
 
   - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery, About and Sign Up page and is identical in each page to allow for easy navigation.
   - This navigation bar is fully responsive, for devices that are less than 800px wide, the font size and the layout of the navigation changes to stack under the Logo.
