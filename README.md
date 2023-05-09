@@ -115,16 +115,19 @@ The images and the logo were used the permission of the artist. All the pics fro
   
 ![HomePage on Desktop](https://user-images.githubusercontent.com/120526785/236819149-b0ec365d-0515-4e44-b664-02e6de03cc68.png)
  
+ #### Mobile
  -On the mobile version, I changed the display of the hero-container to block, so it's easier to read, as well as the grid that was used for the description of the artist, who was changed to a display block.
+ 
 ![HomePageMobile (1)](https://github.com/tlalexandre/raphael-silva/assets/120526785/4ab05f91-0654-4276-93ab-c4684f27ac1a)
 
 
 ### Gallery Page
   - The Gallery Page allows the user to discover the work of the artist, displayed in a grid made of 3 columns , and it includes a short description for each pictures. 
   - The description is made from the tags that the artist put on his work on Instagram.
-  
+
 ![GalleryPage](https://user-images.githubusercontent.com/120526785/236819553-3bf1c657-a903-4c7b-a60f-8b837090cce4.png)
 
+ #### Mobile
  -On mobile version, the grid goes from 3 columns to only one , to allow the user to have better size pictures.
  -The description on each picture has been removed to avoid to saturate the site.
  
@@ -139,6 +142,7 @@ The images and the logo were used the permission of the artist. All the pics fro
     
 ![AboutPage](https://user-images.githubusercontent.com/120526785/236820452-9b86b3cc-4dc6-4ec0-bac3-b2641d7b014b.png)
 
+ #### Mobile
  -On mobile version, the display of each section is changed from flex to block, to allow the user to have a better layout for this screensize.
  
 ![AboutPageMobile (1)](https://github.com/tlalexandre/raphael-silva/assets/120526785/1ef627d6-6095-4536-9937-2444ae5f77e9)
