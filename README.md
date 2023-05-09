@@ -29,7 +29,7 @@ Raphael Silva is a  responsive website that allows people to discover the work o
 
 * [Technologies Used](#technologies-used)
   * [Languages Used](#languages-used)
-  * [Frameworks & Programs Used](#frameworks-programs-used)
+  * [Frameworks & Programs Used](#frameworks-&-programs-used)
 
 * [Deployment & Local Development](#deployment--local-development)
   * [Deployment](#deployment)
