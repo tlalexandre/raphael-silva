@@ -181,7 +181,8 @@ There's also a script at the end of the HTML to allow the use of icons from Font
 * Google Dev Tools - To troubleshoot and test the features, fix issues with styling.
 * FastDL- To download Instagram pictures.
 * IamSilva - Actual website of Raphael Silva, for all the text content, and the Logo.
-* Am 
+* Am I Responsive? - To show the website image on a range of devices.
+* Shields.io -To add badges to the README
 
 ## Deployment
 
