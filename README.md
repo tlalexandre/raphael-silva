@@ -84,13 +84,21 @@ I wanted the colours to reflect the colourful universe of the artist, something 
 
 ![ColorRaphaelSilva](https://user-images.githubusercontent.com/120526785/237040695-05d0cab7-b83c-4e0d-bbb5-04d8333e2fee.png)
 
-## Features 
+## Typography
 
-### Existing Features
+Google Fonts was used for the following fonts :
+* Roboto Mono is used for the navigation, the About page, and the Contact Form.
+* Space Mono is used for the rest of the website, such as the hero-container, or the Gallery Title.
+
+## Imagery
+The images and the logo were used the permission of the artist. All the pics from the gallery where taken from the Instagram of the artist.
+
+## Features 
 
 - __Navigation Bar__
 
   - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery, About and Sign Up page and is identical in each page to allow for easy navigation.
+  - This navigation bar is fully responsive, for devices that are less than 800px wide, the font size and the layout of the navigation changes to stack under the Logo.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
   
   ![NavBar](https://user-images.githubusercontent.com/120526785/236818663-22f267ce-6330-4f12-9785-feeb0828ff9e.png)
@@ -98,6 +106,7 @@ I wanted the colours to reflect the colourful universe of the artist, something 
 - __The Home Page__
 
   - The Home Page includes a photo of Raphael Silva, the artist, on the left. On the right, you can find useful informations about him, such as his job title and the tools he uses.
+  - This page is fully responsive. The font-size of the text changes depending on the size of the viewport, as well as the positioning of the elements, from a grid on desktop to a display block on mobile devices.
   
 ![HomePage](https://user-images.githubusercontent.com/120526785/236819149-b0ec365d-0515-4e44-b664-02e6de03cc68.png)
 
