@@ -23,15 +23,13 @@ Raphael Silva is a  responsive website that allows people to discover the work o
   * [Colour Scheme](#colour-scheme)
   * [Typography](#typography)
   * [Imagery](#imagery)
-
-* [Features](#features)
-  * [General Features on Each Page](#general-features-on-each-page)
+  * [Features](#features)
   * [Future Implementations](#future-implementations)
   * [Accessibility](#accessibility)
 
 * [Technologies Used](#technologies-used)
   * [Languages Used](#languages-used)
-  * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
+  * [Frameworks & Programs Used](#frameworks-programs-used)
 
 * [Deployment & Local Development](#deployment--local-development)
   * [Deployment](#deployment)
@@ -94,6 +92,7 @@ Google Fonts was used for the following fonts :
 The images and the logo were used the permission of the artist. All the pics from the gallery where taken from the Instagram of the artist.
 
 ## Features 
+
 - All pages on the website have:
 
  - __Navigation Bar__
