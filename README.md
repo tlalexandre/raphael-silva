@@ -94,15 +94,22 @@ Google Fonts was used for the following fonts :
 The images and the logo were used the permission of the artist. All the pics from the gallery where taken from the Instagram of the artist.
 
 ## Features 
-* All pages on the website have:
+- All pages on the website have:
 
-** __Navigation Bar__
+ -__Navigation Bar__
 
   - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery, About and Sign Up page and is identical in each page to allow for easy navigation.
   - This navigation bar is fully responsive, for devices that are less than 800px wide, the font size and the layout of the navigation changes to stack under the Logo.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
   
   ![NavBar](https://user-images.githubusercontent.com/120526785/236818663-22f267ce-6330-4f12-9785-feeb0828ff9e.png)
+  
+ - __The Footer__ 
+
+  - The footer section includes links to the relevant social media sites for Raphael Silva. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media to find out more about the artist.
+  
+![Footer](https://user-images.githubusercontent.com/120526785/236820783-c7dcb9f6-6d59-4f40-ab58-9828b4690bc9.png)
 
 - __The Home Page__
 
@@ -126,13 +133,6 @@ The images and the logo were used the permission of the artist. All the pics fro
     - The Features section shows where the artist was referred as on differents websites. This allows the user to check the opinion of people about the artist.
     
 ![AboutPage](https://user-images.githubusercontent.com/120526785/236820452-9b86b3cc-4dc6-4ec0-bac3-b2641d7b014b.png)
-
-- __The Footer__ 
-
-  - The footer section includes links to the relevant social media sites for Raphael Silva. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media to find out more about the artist.
-  
-![Footer](https://user-images.githubusercontent.com/120526785/236820783-c7dcb9f6-6d59-4f40-ab58-9828b4690bc9.png)
 
 - __The Contact Page__
 
