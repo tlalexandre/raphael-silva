@@ -198,9 +198,10 @@ The live link can be found here - https://tlalexandre.github.io/raphael-silva/
 ### Content 
 
 - The text content was taken from the previous website of Raphael Silva, who kindly allowed me to use it.(http://www.iamsilva.work/)
+- The animation on the navigation buttons was suggested by my classmates Darrach Barneveld and Dario.
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
-
+- The logo was also designed by Raphael Silva, who allowed me to use it.
 - The images are all taken from Raphael Silva's Instagram, who kindly allowed me to use them.(https://www.instagram.com/raphsilvaa/)
 - The picture for the Home page was taken from the Raphael Silva website.(http://www.iamsilva.work/)
