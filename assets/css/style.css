@@ -103,7 +103,7 @@ nav ul a:active {
     text-align: center;
 }
 
-.description h3 {
+.description span {
     grid-area: art;
     font-size: 2rem;
 }
