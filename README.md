@@ -24,10 +24,16 @@ Raphael Silva is a  responsive website that allows people to discover the work o
   * [Typography](#typography)
   * [Imagery](#imagery)
   * [Features](#features)
+    * [General Features](#general-features)
+    * [Home Page](#home-page)
+    * [Gallery Page](#gallery-page)
+    * [About Page](#about-page)
+    * [Contact Page](#contact-page)
+   
   * [Future Implementations](#future-implementations)
   * [Accessibility](#accessibility)
-    * [Validator Testing}(#validator-testing)
-    * [Contrast Checking](#contrast-checking)'
+    * [Validator Testing](#validator-testing)
+    * [Contrast Checking](#contrast-checking)
     * [Lighthouse](#lighthouse)
 
 * [Technologies Used](#technologies-used)
@@ -87,10 +93,9 @@ Google Fonts was used for the following fonts :
 The images and the logo were used the permission of the artist. All the pics from the gallery where taken from the Instagram of the artist.
 
 ## Features 
-
-- All pages on the website have:
-
- - __Navigation Bar__
+ ### General Features
+ 
+ #### Navigation Bar
 
    - The full responsive navigation bar includes links to the Logo, Home page, Gallery, About and Sign Up page and is identical in each page to allow for easy navigation.
    - This navigation bar font size and the layout of the navigation changes to stack under the Logo for devices under 800px.
@@ -99,14 +104,14 @@ The images and the logo were used the permission of the artist. All the pics fro
   
   ![NavBar](https://user-images.githubusercontent.com/120526785/236818663-22f267ce-6330-4f12-9785-feeb0828ff9e.png)
   
- - __The Footer__ 
+ #### Footer
 
    - The footer section includes links to the relevant social media sites for Raphael Silva. The links will open to a new tab to allow easy navigation for the user. 
    - The footer is valuable to the user as it encourages them to keep connected via social media to find out more about the artist.
   
 ![Footer](https://user-images.githubusercontent.com/120526785/236820783-c7dcb9f6-6d59-4f40-ab58-9828b4690bc9.png)
 
-- __Home Page__
+### Home Page
 
   - The Home Page includes a photo of Raphael Silva, the artist, on the left. On the right, you can find useful informations about him, such as his job title and the tools he uses.
   - This page is fully responsive. The font-size of the text changes depending on the size of the viewport, as well as the positioning of the elements, from a grid on desktop to a display block on mobile devices.
@@ -114,14 +119,14 @@ The images and the logo were used the permission of the artist. All the pics fro
 ![HomePage](https://user-images.githubusercontent.com/120526785/236819149-b0ec365d-0515-4e44-b664-02e6de03cc68.png)
 
 
-- __Gallery Page__
+### Gallery Page
 
   - The Gallery Page allows the user to discover the work of the artist, and it includes a short description for each pictures. 
   - The description is not displayed on mobile for responsive purposes.The description is made from the tags that the artist put on his work on Instagram.
   
 ![GalleryPage](https://user-images.githubusercontent.com/120526785/236819553-3bf1c657-a903-4c7b-a60f-8b837090cce4.png)
 
-- __About Page__
+### About Page
 
   - The About Page allows the user to learn more about the artist, in three differents sections.
     - The About Me section allows the user to get to know the artist better, about where is from, which companies he worked for, where did he study.
@@ -130,19 +135,19 @@ The images and the logo were used the permission of the artist. All the pics fro
     
 ![AboutPage](https://user-images.githubusercontent.com/120526785/236820452-9b86b3cc-4dc6-4ec0-bac3-b2641d7b014b.png)
 
-- __The Contact Page__
+### Contact Page
 
   - This page allows the user to contact the artist for any request, for a project or to give an opinion about previous work. This page is useful for both business or private customers.
   - Every field in the form is required to avoid empty messages, names or email. Each input also has the autocomplete feature which allows the user to complete the form faster.
   
   ![ContactMe](https://user-images.githubusercontent.com/120526785/236821465-5707b754-eb70-4a5c-bace-c763ce7c0b65.png)
   
-### Future Implementations
+## Future Implementations
 
   - Use Javascript to put animations on the 3D shadows on the Home page.
   - Use Javascript to change the layout of the gallery, with names of the creations written, that would display the creation on hover.
 
-### Accessibility
+## Accessibility
 I have been mindful during coding this website to ensure that it was as accessible friendly as possible.I've made that possible by:
  - Using semantic HTML
  - Giving an alt attribute to every pictures on the websites
@@ -150,7 +155,7 @@ I have been mindful during coding this website to ensure that it was as accessib
  - Giving an aria-hidden attribute to the icons in the About page.
  - Ensuring the colour contrast in the site is strong enough to meet the accessibilty norm.
 
-### Validator Testing 
+## Validator Testing 
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftlalexandre.github.io%2Fraphael-silva%2F)
