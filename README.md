@@ -114,14 +114,20 @@ The images and the logo were used the permission of the artist. All the pics fro
   - This page is fully responsive. The font-size of the text changes depending on the size of the viewport, as well as the positioning of the elements, from a grid on desktop to a display block on mobile devices.
   
 ![HomePage on Desktop](https://user-images.githubusercontent.com/120526785/236819149-b0ec365d-0515-4e44-b664-02e6de03cc68.png)
+ 
+ -On the mobile version, I changed the display of the hero-container to block, so it's easier to read, as well as the grid that was used for the description of the artist, who was changed to a display block.
 ![HomePageMobile (1)](https://github.com/tlalexandre/raphael-silva/assets/120526785/4ab05f91-0654-4276-93ab-c4684f27ac1a)
 
 
 ### Gallery Page
-  - The Gallery Page allows the user to discover the work of the artist, and it includes a short description for each pictures. 
-  - The description is not displayed on mobile for responsive purposes.The description is made from the tags that the artist put on his work on Instagram.
+  - The Gallery Page allows the user to discover the work of the artist, displayed in a grid made of 3 columns , and it includes a short description for each pictures. 
+  - The description is made from the tags that the artist put on his work on Instagram.
   
 ![GalleryPage](https://user-images.githubusercontent.com/120526785/236819553-3bf1c657-a903-4c7b-a60f-8b837090cce4.png)
+
+ -On mobile version, the grid goes from 3 columns to only one , to allow the user to have better size pictures.
+ -The description on each picture has been removed to avoid to saturate the site.
+ 
 ![GalleryPageMobile (1)](https://github.com/tlalexandre/raphael-silva/assets/120526785/25ae544c-090a-4477-9c05-1dbe938fe1cd)
 
 
@@ -132,6 +138,9 @@ The images and the logo were used the permission of the artist. All the pics fro
     - The Features section shows where the artist was referred as on differents websites. This allows the user to check the public opinion about the artist.
     
 ![AboutPage](https://user-images.githubusercontent.com/120526785/236820452-9b86b3cc-4dc6-4ec0-bac3-b2641d7b014b.png)
+
+ -On mobile version, the display of each section is changed from flex to block, to allow the user to have a better layout for this screensize.
+ 
 ![AboutPageMobile (1)](https://github.com/tlalexandre/raphael-silva/assets/120526785/1ef627d6-6095-4536-9937-2444ae5f77e9)
 
 
@@ -140,6 +149,9 @@ The images and the logo were used the permission of the artist. All the pics fro
   - Every field in the form is required to avoid empty messages, names or email. Each input also has the autocomplete feature which allows the user to complete the form faster.
   
   ![ContactMe](https://user-images.githubusercontent.com/120526785/236821465-5707b754-eb70-4a5c-bace-c763ce7c0b65.png)
+ 
+ -On mobile version, the display is changed from flex to block, to allow the user to have a better layout for this screensize.
+  
   ![ContactPageMobile (1)](https://github.com/tlalexandre/raphael-silva/assets/120526785/c46fa68b-8c1e-4fcd-93f1-d5ecfbb5ac97)
 
 
