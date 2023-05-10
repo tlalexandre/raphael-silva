@@ -487,6 +487,11 @@ fieldset {
         margin: auto;
     }
 
+    #logo {
+        display: flex;
+        justify-content: center;
+    }
+
     nav ul {
         width: 100%;
         padding: 10px;
@@ -621,6 +626,10 @@ fieldset {
 
     .contact-me {
         margin: 0 10px;
+    }
+
+    .contact-me h3 {
+        font-size: 1.8rem;
     }
 
     #submit {
