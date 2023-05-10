@@ -506,7 +506,7 @@ fieldset {
     font-family: "Space Mono", sans-serif;
     width: 90%;
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 60% 40%;
     margin: 50px auto;
 }
 
@@ -574,7 +574,8 @@ fieldset {
 .error img {
     border: 20px solid var(--color2);
     border-radius: 0px 0px 70px;
-    width: 100%;
+    max-width: 100%;
+    max-height: 600px;
 }
 
 /* Media queries */
@@ -585,9 +586,27 @@ fieldset {
     }
 }
 
-@media screen and (max-width:1260px) {
+@media screen and (max-width:1500px) {
     .error {
         font-size: 1em;
+    }
+}
+
+@media screen and (max-width:1100px) {
+
+    .error {
+        display: block;
+    }
+
+    .errortext {
+        margin: 0 auto;
+        width: inherit;
+    }
+
+    .error img {
+        display: block;
+        margin: 0 auto;
+        width: inherit;
     }
 }
 
@@ -599,12 +618,8 @@ fieldset {
     .thankYou {
         font-size: 1.5em;
     }
-
-    .error {
-        height: auto;
-        display: block;
-    }
 }
+
 
 @media screen and (max-width:800px) {
 
