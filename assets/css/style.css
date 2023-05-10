@@ -352,6 +352,7 @@ i {
     margin: 0 50px 20px;
     background-color: var(--color2);
     border-radius: 20px;
+    padding: 5px;
 }
 
 .contact-me img {
