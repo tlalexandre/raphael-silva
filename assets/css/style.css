@@ -522,6 +522,20 @@ fieldset {
     border-radius: 70px 0px 0px;
 }
 
+.number {
+    font-size: 5em;
+    text-transform: uppercase;
+    text-shadow:
+        1px 1px var(--color4),
+        2px 2px var(--color4),
+        3px 3px var(--color4),
+        4px 4px var(--color4),
+        5px 5px var(--color4),
+        6px 6px var(--color4),
+        7px 7px var(--color4),
+        8px 8px var(--color4);
+}
+
 .errortext h2 {
     margin-bottom: 1em;
     text-transform: uppercase;
@@ -573,7 +587,7 @@ fieldset {
 
 @media screen and (max-width:1130px) {
     .error {
-        display: block;
+        font-size: 1em;
     }
 }
 
