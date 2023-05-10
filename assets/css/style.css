@@ -585,7 +585,7 @@ fieldset {
     }
 }
 
-@media screen and (max-width:1130px) {
+@media screen and (max-width:1260px) {
     .error {
         font-size: 1em;
     }
@@ -598,6 +598,11 @@ fieldset {
 
     .thankYou {
         font-size: 1.5em;
+    }
+
+    .error {
+        height: auto;
+        display: block;
     }
 }
 
@@ -723,14 +728,6 @@ fieldset {
         font-size: 1em;
     }
 
-    .error {
-        height: auto;
-        display: block;
-    }
-
-    .error img {
-        width: 100%;
-    }
 }
 
 @media screen and (max-width:600px) {
