@@ -499,11 +499,81 @@ fieldset {
     padding: 10px;
 }
 
+/* 404 page */
+.error {
+    font-size: 1.5em;
+    color: var(--color3);
+    font-family: "Space Mono", sans-serif;
+    width: 90%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 50px auto;
+}
+
+.errortext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: var(--color2);
+    text-align: center;
+    padding: 10px;
+    border: 20px double var(--color3);
+    border-radius: 70px 0px 0px;
+}
+
+.errortext h2 {
+    margin-bottom: 1em;
+    text-transform: uppercase;
+    text-shadow:
+        1px 1px var(--color4),
+        2px 2px var(--color4),
+        3px 3px var(--color4),
+        4px 4px var(--color4),
+        5px 5px var(--color4),
+        6px 6px var(--color4),
+        7px 7px var(--color4),
+        8px 8px var(--color4);
+}
+
+.errortext p {
+    margin-bottom: 1em;
+}
+
+.errortext a {
+    border: 2px solid var(--color3);
+    border-radius: 0px 20px 20px 0px;
+    color: var(--color3);
+    padding: 10px;
+    cursor: pointer;
+    box-shadow:
+        1px 1px var(--color4),
+        2px 2px var(--color4),
+        3px 3px var(--color4),
+        4px 4px var(--color4),
+        5px 5px var(--color4),
+        6px 6px var(--color4),
+        7px 7px var(--color4),
+        8px 8px var(--color4);
+}
+
+.error img {
+    border: 20px solid var(--color2);
+    border-radius: 0px 0px 70px;
+    width: 100%;
+}
+
 /* Media queries */
 
 @media screen and (min-width:1700px) {
     #firstName {
         top: 20%;
+    }
+}
+
+@media screen and (max-width:1130px) {
+    .error {
+        display: block;
     }
 }
 
@@ -638,6 +708,15 @@ fieldset {
     .thankYou {
         font-size: 1em;
     }
+
+    .error {
+        height: auto;
+        display: block;
+    }
+
+    .error img {
+        width: 100%;
+    }
 }
 
 @media screen and (max-width:600px) {
@@ -682,6 +761,10 @@ fieldset {
     }
 
     .thankYou {
+        font-size: 0.8em;
+    }
+
+    .error {
         font-size: 0.8em;
     }
 }
