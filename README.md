@@ -30,7 +30,7 @@ Raphael Silva is a  responsive website that allows people to discover the work o
   * [Gallery Page](#gallery-page)
   * [About Page](#about-page)
   * [Contact Page](#contact-page)
-  * [Thank You Page](#thanks-page)
+  * [Thank You Page](#thank-you-page)
   * [404 Page](#404-page)
    
 * [Future Implementations](#future-implementations)
@@ -167,7 +167,8 @@ The images and the logo were used the permission of the artist. All the pics fro
 
 -On mobile version.
 
-![ThankYouMobile](https://github.com/tlalexandre/raphael-silva/assets/120526785/89c40c04-6a03-4bf0-bd46-3b569950bf8b)
+![ThankYouMobile](https://github.com/tlalexandre/raphael-silva/assets/120526785/f8e2fbfd-a08a-454a-a913-ae6739291005)
+
 
 ### 404 Page
 -This page is made if the user types a wrong address in the search bar, it allows him to come back to the site via the back to home button. 
@@ -176,7 +177,9 @@ The images and the logo were used the permission of the artist. All the pics fro
 
 -Here's the mobile version.
 
-![404Mobile](https://github.com/tlalexandre/raphael-silva/assets/120526785/389eab5e-f7bf-4d65-9044-16ff12e48e40)
+![404Mobile](https://github.com/tlalexandre/raphael-silva/assets/120526785/834e8486-6923-4900-8717-e85076ead3b5)
+
+
 
 ## Future Implementations
   - Use Javascript to put animations on the 3D shadows on the Home page.
