@@ -183,6 +183,13 @@ The images and the logo were used the permission of the artist. All the pics fro
 ## Future Implementations
   - Use Javascript to put animations on the 3D shadows on the Home page.
   - Use Javascript to change the layout of the gallery, with names of the creations written, that would display the creation on hover.
+  
+## Testing
+I tested my website on Mozilla Firefox, Opera and Chrome, and there's no noticeable problem.
+### Fixed Bugs
+During the development of the Gallery page, I ran into an issue with the positioning of the pictures, when i was using float.
+This was due to not putting the size of the pictures in my CSS file. 
+I decided to change the layout to a grid, to make it more responsive.
 
 ## Accessibility
 I have been mindful during coding this website to ensure that it was as accessible friendly as possible.I've made that possible by:
@@ -234,10 +241,13 @@ The live link can be found here - https://tlalexandre.github.io/raphael-silva/
 
 ### Content 
 - The text content was taken from the previous website of Raphael Silva, who kindly allowed me to use it.(http://www.iamsilva.work/)
-- The animation on the navigation buttons was suggested by my classmates Darrach Barneveld and Dario.
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 - The logo was also designed by Raphael Silva, who allowed me to use it.
 - The images are all taken from Raphael Silva's Instagram, who kindly allowed me to use them.(https://www.instagram.com/raphsilvaa/)
 - The picture for the Home page was taken from the Raphael Silva website.(http://www.iamsilva.work/)
+
+## Acknowledgements
+- The animation on the navigation buttons was suggested by my classmates Darrach Barneveld and Dario.
+- The 404 page and the thank you page were suggested by Matthew Sheperd, a student in the #peer-code-review.
