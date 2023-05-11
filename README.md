@@ -167,8 +167,7 @@ The images and the logo were used the permission of the artist. All the pics fro
 
 -On mobile version.
 
-![ThankYouMobile](https://github.com/tlalexandre/raphael-silva/assets/120526785/f8e2fbfd-a08a-454a-a913-ae6739291005)
-
+![ThankYouMobile](https://github.com/tlalexandre/raphael-silva/assets/120526785/d59bd425-810d-4b49-a957-3af3db20cb4d)
 
 ### 404 Page
 -This page is made if the user types a wrong address in the search bar, it allows him to come back to the site via the back to home button. 
