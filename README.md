@@ -154,7 +154,7 @@ The images and the logo were used the permission of the artist. All the pics fro
   - This page allows the user to contact the artist for any request, for a project or to give an opinion about previous work. This page is useful for both business or private customers.
   - Every field in the form is required to avoid empty messages, names or email. Each input also has the autocomplete feature which allows the user to complete the form faster.
   
-  ![ContactMe](https://user-images.githubusercontent.com/120526785/236821465-5707b754-eb70-4a5c-bace-c763ce7c0b65.png)
+![ContactMe](https://github.com/tlalexandre/raphael-silva/assets/120526785/267bf378-2cce-419c-ae39-af496d192d0f)
  
  -On mobile version, the display is changed from flex to block, to allow the user to have a better layout for this screensize.
   
@@ -199,11 +199,13 @@ I have been mindful during coding this website to ensure that it was as accessib
  - Giving an aria-hidden attribute to the icons in the About page.
  - Ensuring the colour contrast in the site is strong enough to meet the accessibilty norm.
 ## Testing
-|     Test      |   Validate  | Not Validate  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|     Test      |   Validate  |
+| ------------- |:-------------:|
+|Is it clear and easy how to navigate in the website?| You can use the navigation bar to access all the sections of the website.|
+|Where can you find a presentation of the artist?|You can find a short presentation of the artist on the Home Page, and learn more about him on the About Page|
+|Can you easily contact the artist?|You can by going on the Contact Page on the website and fill the form. You can also send him an email through the Mail link in the footer.|
+|Can you play through the videos present on the Gallery|You can by using the controls incorporated in the video player.|
+|Can you access the site on any device?|The wevsite is fully responsive, from desktop to devices with a screen resolution of 280px width.|
 ## Validator Testing 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftlalexandre.github.io%2Fraphael-silva%2F)
