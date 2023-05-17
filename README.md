@@ -212,6 +212,7 @@ Each device tested the site using the following browsers:
 - Google Chrome
 - Mozilla Firefox
 - Opera
+
 Addtional testing was taken by friends on large variety of devices.
 
 ## Validator Testing 
