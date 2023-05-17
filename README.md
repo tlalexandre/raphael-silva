@@ -213,7 +213,7 @@ Each device tested the site using the following browsers:
 - Mozilla Firefox
 - Opera
 
-Addtional testing was taken by friends on large variety of devices.
+Additional testing was taken by friends on large variety of devices.
 
 ## Validator Testing 
 - HTML
