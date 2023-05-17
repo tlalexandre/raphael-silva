@@ -699,6 +699,10 @@ fieldset {
         display: block;
     }
 
+    .art {
+        margin-bottom: 20px;
+    }
+
     .art:hover .presentation {
         display: none;
     }
