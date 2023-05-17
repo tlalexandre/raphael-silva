@@ -206,6 +206,14 @@ I have been mindful during coding this website to ensure that it was as accessib
 |Can you easily contact the artist?|You can by going on the Contact Page on the website and fill the form. You can also send him an email through the Mail link in the footer.|
 |Can you play through the videos present on the Gallery|You can by using the controls incorporated in the video player.|
 |Can you access the site on any device?|The wevsite is fully responsive, from desktop to devices with a screen resolution of 280px width.|
+
+The website was tested on desktop, and mobile (Pixel 6a). 
+Each device tested the site using the following browsers:
+- Google Chrome
+- Mozilla Firefox
+- Opera
+Addtional testing was taken by friends on large variety of devices.
+
 ## Validator Testing 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftlalexandre.github.io%2Fraphael-silva%2F)
