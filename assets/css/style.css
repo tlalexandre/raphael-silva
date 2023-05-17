@@ -225,7 +225,7 @@ i {
     display: none;
     position: absolute;
     background-color: rgba(56, 24, 76, 0.7);
-    bottom: 1px;
+    bottom: 70px;
     padding: 5px;
 }
 
@@ -630,6 +630,12 @@ fieldset {
 
     .thankYou {
         font-size: 1.5em;
+    }
+}
+
+@media screen and (max-width:850px) {
+    .presentation span {
+        font-size: 0.6rem;
     }
 }
 
