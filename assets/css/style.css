@@ -421,6 +421,8 @@ form {
 }
 
 fieldset {
+    width: 80%;
+    margin: 0 auto;
     text-align: center;
     border: 2px solid var(--color3);
     border-radius: 0px 20px 20px 0px;
