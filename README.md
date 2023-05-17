@@ -2,8 +2,7 @@
 
 Raphael Silva is a  responsive website that allows people to discover the work of Raphael Silva, a Brazilian artist based in Dublin, on range of differents devices. The site is targeted toward business and private customers that would need help with design for websites or ads. 
 
-![ResponsiveSilva](https://user-images.githubusercontent.com/120526785/237052852-0c6d5906-02f2-4c07-9015-4d82313d71a1.png)
-
+![ResponsiveSilva](https://github.com/tlalexandre/raphael-silva/assets/120526785/a2bc2144-99dc-4801-a0ac-d679c3afbaee)
 
 
 [Discover Raphael Silva's work](https://tlalexandre.github.io/raphael-silva/)
@@ -99,19 +98,19 @@ The images and the logo were used the permission of the artist. All the pics fro
  ### General Features
  
  #### Navigation Bar
-   - The full responsive navigation bar includes links to the Logo, Home page, Gallery, About and Sign Up page and is identical in each page to allow for easy navigation.
+   - The full responsive navigation bar includes links to the Logo(which brings you to the Home Page), Gallery, About and Sign Up page and is identical in each page to allow for easy navigation.
    - This navigation bar font size and the layout of the navigation changes to stack under the Logo for devices under 800px.
    - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
    - The design of the buttons is made using box-shadow, to remind of the digital and graphic design as a theme for the website.
-  
-  ![NavBar](https://user-images.githubusercontent.com/120526785/236818663-22f267ce-6330-4f12-9785-feeb0828ff9e.png)
-  
+   
+  ![NavBar](https://github.com/tlalexandre/raphael-silva/assets/120526785/e4c5bc77-5387-4c1a-abb0-327127b8b14b)
+
  #### Footer
    - The footer section includes links to the relevant social media sites for Raphael Silva. The links will open to a new tab to allow easy navigation for the user. 
    - The footer is valuable to the user as it encourages them to keep connected via social media to find out more about the artist.
-  
-![Footer](https://user-images.githubusercontent.com/120526785/236820783-c7dcb9f6-6d59-4f40-ab58-9828b4690bc9.png)
-
+ 
+ ![Footer](https://github.com/tlalexandre/raphael-silva/assets/120526785/c1261aa8-9003-4b0b-bca8-7d0e3b32789b)
+ 
 ### Home Page
   - The Home Page includes a photo of Raphael Silva, the artist, on the left. On the right, you can find useful informations about him, such as his job title and the tools he uses.
   - This page is fully responsive. The font-size of the text changes depending on the size of the viewport, as well as the positioning of the elements, from a grid on desktop to a display block on mobile devices.
@@ -199,7 +198,12 @@ I have been mindful during coding this website to ensure that it was as accessib
  - Giving a aria-label to videos, and icons in the footer.
  - Giving an aria-hidden attribute to the icons in the About page.
  - Ensuring the colour contrast in the site is strong enough to meet the accessibilty norm.
-
+## Testing
+|     Test      |   Validate  | Not Validate  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 ## Validator Testing 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftlalexandre.github.io%2Fraphael-silva%2F)
